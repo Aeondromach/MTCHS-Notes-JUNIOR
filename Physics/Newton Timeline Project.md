@@ -9,5 +9,9 @@
 
 **1669** - February 23 - Newton describes his "Reflecting Telescope" in a letter to Henry Oldenburg, first Secretary of the Royal Society.
 
+**1671** - Newton writes _De methodis_ ; in December he sends his Reflecting ('Newtonian') telescope to Royal Society.
 
+**1672** - January 11 - Newton is elected Fellow of the Royal Society of London.
+
+**August** - Edmond Halley the astronomer(1656-1742) makes his famous Cambridge visit to inquire of Newton about the path of a planet moving in relation to an inverse-square.
 
