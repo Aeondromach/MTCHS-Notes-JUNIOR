@@ -14,6 +14,7 @@
 13. **1700 - February 3** - Newton is appointed Master of the Mint.
 14. **1699 - February 21** - Newton is elected Foreign Associate of the Académie des sciences (Paris).
 15. **November 30** - Newton is elected to the Council of the Royal Society.
-
-
-**1700 - February 3 - Newton is appointed Master of the Mint.**
+16. **1700 - February 3 - Newton is appointed Master of the Mint.**
+17. **1703 - March 3** - Robert Hooke dies; Newton decides to go forward in publishing his work on optics, work completed years before.
+18. **1704** - February Newton publishes the first edition of his _Opticks_.
+19. 
