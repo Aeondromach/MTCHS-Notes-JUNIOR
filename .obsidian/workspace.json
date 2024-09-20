@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "2096f06183a7bfa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "babad9a4dbfd8e85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "12e0ac3a0a5eca92",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adam Assignments/09-2024/16Mo.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f6166ac12f8e3759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Limit Laws.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cd1475ba06d1f78a",
+    "type": "split",
+    "children": [
+      {
+        "id": "87f7b8eac5d743e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "914da87d9a5e806b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd5ddea3163eee83",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "902078fb7d0c8052",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "150625d319e40a27",
+    "type": "split",
+    "children": [
+      {
+        "id": "4055adf189767c62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "767172471c1456da",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math/Limit Laws.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af8780a93fd3a824",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math/Limit Laws.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26e574ce68512d1a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "128ed59aaa308c6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Math/Limit Laws.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "remotely-save:Remotely Save": false,
+      "homepage:Open homepage": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f6166ac12f8e3759",
+  "lastOpenFiles": [
+    "Math/One Sided Limits.md",
+    "Math/Limit Laws.md",
+    "Math/Inversing a Function.md",
+    "Math/Secant and Tangent Lines.md",
+    "Math/A-Definitions.md",
+    "Adam Assignments/09-2024/20Fr.md",
+    "Math/Signs.md",
+    "Adam Assignments/09-2024/19Th.md",
+    "Adam Assignments/09-2024/17Tu.md",
+    "Adam Assignments/09-2024/16Mo.md",
+    "Adam Assignments/09-2024/15Su.md",
+    "Physics/MPP.md",
+    "Adam Assignments/09-2024/13Fr.md",
+    "Adam Assignments/09-2024/12Th.md",
+    "Adam Assignments/09-2024/11We.md",
+    "Adam Assignments/09-2024/10Tu.md",
+    "Computer Science/README Template.md",
+    "Adam Assignments/09-2024/06Fr.md",
+    "Physics/Domino lab results.md",
+    "Adam Assignments/09-2024/05Th.md",
+    "Adam Assignments/09-2024/04We.md",
+    "Adam Assignments/09-2024/03Tu.md",
+    "Adam Assignments/09-2024"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "autorun": true,
+  "format": "MM-YYYY/DDdd",
+  "folder": "Adam Assignments",
+  "template": "Templates/Assignments"
+}
