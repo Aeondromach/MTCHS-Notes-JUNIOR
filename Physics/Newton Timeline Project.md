@@ -17,4 +17,6 @@
 16. **1700 - February 3 - Newton is appointed Master of the Mint.**
 17. **1703 - March 3** - Robert Hooke dies; Newton decides to go forward in publishing his work on optics, work completed years before.
 18. **1704** - February Newton publishes the first edition of his _Opticks_.
-19. 
+19. **August 1** - Newton and good friend Edmond Halley visit Greenwich.
+20. **March 20** - Isaac Newton dies at Kensington between 1.00 and 2.00am.
+21. **1731** - Newton's monument at Westminster Abbey is unveiled.
