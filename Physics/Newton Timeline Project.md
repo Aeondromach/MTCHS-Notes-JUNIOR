@@ -7,8 +7,13 @@
 6. **1671** - Newton writes _De methodis_ ; in December he sends his Reflecting ('Newtonian') telescope to Royal Society.
 7. **1672 - January 11** - Newton is elected Fellow of the Royal Society of London.
 8. **August** - Edmond Halley the astronomer(1656-1742) makes his famous Cambridge visit to inquire of Newton about the path of a planet moving in relation to an inverse-square.
-**1686 - April 28** - Newton presents his _Principia Mathematica_ , Book I to the Royal Society. His first major publication!
-**1697 - January 30** - Newton receives and solves the famous 'Lion's Paw' problem present by Bernoulli; Newton's solution to the problem are read anonymously to the Royal Society.
-**1699** - February 21 - Newton is elected Foreign Associate of the Académie des sciences (Paris).
-**November 30** - Newton is elected to the Council of the Royal Society.
-**1700 - February 3** - Newton is appointed Master of the Mint.
+9. **1686 - April 28** - Newton presents his _Principia Mathematica_ , Book I to the Royal Society. His first major publication!
+10. **1697 - January 30** - Newton receives and solves the famous 'Lion's Paw' problem present by Bernoulli; Newton's solution to the problem are read anonymously to the Royal Society.
+11. **1699** - February 21 - Newton is elected Foreign Associate of the Académie des sciences (Paris).
+12. **November 30** - Newton is elected to the Council of the Royal Society.
+13. **1700 - February 3** - Newton is appointed Master of the Mint.
+14. **1699 - February 21** - Newton is elected Foreign Associate of the Académie des sciences (Paris).
+15. **November 30** - Newton is elected to the Council of the Royal Society.
+
+
+**1700 - February 3 - Newton is appointed Master of the Mint.**
