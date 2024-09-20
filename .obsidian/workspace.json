@@ -25,12 +25,8 @@
             "id": "f6166ac12f8e3759",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Physics/Newton Timeline Project.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -100,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/Newton Timeline Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/Newton Timeline Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Physics/Newton Timeline Project.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,8 +165,8 @@
   },
   "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
-    "Adam Assignments/09-2024/20Fr.md",
     "Physics/Newton Timeline Project.md",
+    "Adam Assignments/09-2024/20Fr.md",
     "Math/Limit Laws.md",
     "Math/One Sided Limits.md",
     "Math/Inversing a Function.md",
