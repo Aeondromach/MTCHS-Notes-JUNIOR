@@ -25,8 +25,12 @@
             "id": "f6166ac12f8e3759",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Physics/20 Choices NTP.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -96,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physics/20 Choices NTP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physics/20 Choices NTP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Physics/20 Choices NTP.md"
+              }
             }
           },
           {
@@ -148,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,6 +175,7 @@
   "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
     "Physics/Newton Timeline Project.md",
+    "Physics/20 Choices NTP.md",
     "Adam Assignments/09-2024/20Fr.md",
     "Math/Limit Laws.md",
     "Math/One Sided Limits.md",

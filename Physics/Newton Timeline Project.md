@@ -161,7 +161,7 @@ September 28 - Newton begins lecturing on _De mundi systemate_ .
 
 Halley reviews the _Principia Mathematica_ of the 'incomparable author' in the _Philosophical Transactions._
 
-**1688** - An anonymous reviewer for the _Journal des scavans_ (Paris 1688) raises objections concerning Newton's _Principia_ , suggesting quite pointedly that the Englishman should now write a second book where he finally addresses the 'true motions [of the planets] instead of those that he [merely] assumes' [ _JS_ , August 1688: 128].
+**1688** - An anonymous reviewer for the _Journal des scavans_ (Paris 1688) raises objections concerning Newton's _Principia_ , suggesting quite pointedly that the Englishman should now write a second book where he finally addresses the 'true motions\[of the planets\] instead of those that he \[merely\] assumes' \[ _JS_ , August 1688: 128\].
 
 **1689** - Newton sits for a portrait by Kneller; Newton meets John Locke (1632-1704), the noted philosopher, for the first time. Locke would become one of Newton's closest adult relationships.
 
