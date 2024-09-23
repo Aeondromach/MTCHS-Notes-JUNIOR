@@ -12,3 +12,16 @@ Continuous at $x=1$ and $x=2$
 
 $x=1$
 $$\lim\limits_{x\rightarrow 1}\frac{(x+2)(x*2)}{(x-2)}=\frac{3(-1)}{-1}=3=f(1)$$
+$f(x)$ when $x=1$ is continuous.
+
+---
+$x=2$
+$$\lim\limits_{x\rightarrow 2}\frac{(x+2)(x*2)}{(x-2)}=\lim\limits_{x\rightarrow 2}x+2=4$$
+$f(2)$ is undefined because $2$ is not in the domain of $f(x)$
+
+$\lim\limits_{x\rightarrow 2}f(x)\neq f(2)$, $f(x)$ is not cont. at $x=2$.
+
+# For Continuity on $[a,b]$
+1. $f(x)$ must be continuous for all $c$. $a<c<b$
+2. $\lim\limits_{x\rightarrow a^+}f(x)=f(a)$
+3. $\lim\limits_{x\rightarrow b^-}
