@@ -28,5 +28,7 @@ $\lim\limits_{x\rightarrow 2}f(x)\neq f(2)$, $f(x)$ is not cont. at $x=2$.
 # Types of Discontinuities
 1. Hole (Removable Discontinuities)
 	- $f(x)$ has a piece missing, can use a piecewise function to fix it.
-2. Jump Discontinuity
-	- 
+2. Jump Discontinuity (None Removable)
+	- jumps in value
+3. infinite (asymptote) (Non Removable)
+	- goes to opposite infinities, so cannot be filled in.
