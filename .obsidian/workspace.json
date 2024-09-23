@@ -25,8 +25,12 @@
             "id": "f6166ac12f8e3759",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Math/Continuity.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -96,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Math/Continuity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Math/Continuity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Math/Continuity.md"
+              }
             }
           },
           {
@@ -166,6 +174,7 @@
   },
   "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
+    "Math/Continuity.md",
     "Adam Assignments/09-2024/20Fr.md",
     "Adam Assignments/09-2024/23Mo.md",
     "Math/Secant and Tangent Lines.md",
@@ -191,7 +200,6 @@
     "Adam Assignments/09-2024/10Tu.md",
     "Computer Science/README Template.md",
     "Adam Assignments/09-2024/06Fr.md",
-    "Adam Assignments/09-2024/05Th.md",
     "Adam Assignments/09-2024"
   ]
 }
