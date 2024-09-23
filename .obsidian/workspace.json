@@ -25,12 +25,8 @@
             "id": "f6166ac12f8e3759",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adam Assignments/09-2024/23Mo.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -100,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adam Assignments/09-2024/23Mo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adam Assignments/09-2024/23Mo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Adam Assignments/09-2024/23Mo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -174,8 +166,9 @@
   },
   "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
-    "Math/Secant and Tangent Lines.md",
+    "Adam Assignments/09-2024/20Fr.md",
     "Adam Assignments/09-2024/23Mo.md",
+    "Math/Secant and Tangent Lines.md",
     "Math/One Sided Limits.md",
     "Math/Signs.md",
     "Physics/20 Choices NTP.md",
@@ -188,7 +181,6 @@
     "Math/Inversing a Function.md",
     "Math/Limit Laws.md",
     "Adam Assignments/09-2024/21Sa.md",
-    "Adam Assignments/09-2024/20Fr.md",
     "Adam Assignments/09-2024/16Mo.md",
     "Adam Assignments/09-2024/19Th.md",
     "Adam Assignments/09-2024/17Tu.md",
