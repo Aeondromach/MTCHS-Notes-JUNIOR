@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Signs.md",
+                "file": "Adam Assignments/09-2024/23Mo.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Signs.md",
+                "file": "Adam Assignments/09-2024/23Mo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Signs.md",
+                "file": "Adam Assignments/09-2024/23Mo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Signs.md"
+                "file": "Adam Assignments/09-2024/23Mo.md"
               }
             }
           },
@@ -175,13 +175,14 @@
   "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
     "Math/Secant and Tangent Lines.md",
+    "Adam Assignments/09-2024/23Mo.md",
+    "Math/One Sided Limits.md",
     "Math/Signs.md",
     "Physics/20 Choices NTP.md",
     "Physics/Newton Timeline Project.md",
     "Physics/MPP.md",
     "Physics/Marble lab notes.md",
     "Physics/Domino lab results.md",
-    "Math/One Sided Limits.md",
     "Adam Assignments/09-2024/22Su.md",
     "Math/A-Definitions.md",
     "Math/Inversing a Function.md",
@@ -199,7 +200,6 @@
     "Computer Science/README Template.md",
     "Adam Assignments/09-2024/06Fr.md",
     "Adam Assignments/09-2024/05Th.md",
-    "Adam Assignments/09-2024/04We.md",
     "Adam Assignments/09-2024"
   ]
 }
