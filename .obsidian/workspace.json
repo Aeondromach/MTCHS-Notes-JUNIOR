@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/A-Definitions.md",
+                "file": "Math/Signs.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/A-Definitions.md",
+                "file": "Math/Signs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/A-Definitions.md",
+                "file": "Math/Signs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/A-Definitions.md"
+                "file": "Math/Signs.md"
               }
             }
           },
@@ -174,32 +174,32 @@
   },
   "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
-    "Math/Inversing a Function.md",
-    "Math/A-Definitions.md",
+    "Math/Secant and Tangent Lines.md",
+    "Math/Signs.md",
+    "Physics/20 Choices NTP.md",
+    "Physics/Newton Timeline Project.md",
+    "Physics/MPP.md",
+    "Physics/Marble lab notes.md",
+    "Physics/Domino lab results.md",
     "Math/One Sided Limits.md",
-    "Math/Limit Laws.md",
     "Adam Assignments/09-2024/22Su.md",
+    "Math/A-Definitions.md",
+    "Math/Inversing a Function.md",
+    "Math/Limit Laws.md",
     "Adam Assignments/09-2024/21Sa.md",
     "Adam Assignments/09-2024/20Fr.md",
     "Adam Assignments/09-2024/16Mo.md",
-    "Physics/Newton Timeline Project.md",
-    "Physics/20 Choices NTP.md",
-    "Math/Secant and Tangent Lines.md",
-    "Math/Signs.md",
     "Adam Assignments/09-2024/19Th.md",
     "Adam Assignments/09-2024/17Tu.md",
     "Adam Assignments/09-2024/15Su.md",
-    "Physics/MPP.md",
     "Adam Assignments/09-2024/13Fr.md",
     "Adam Assignments/09-2024/12Th.md",
     "Adam Assignments/09-2024/11We.md",
     "Adam Assignments/09-2024/10Tu.md",
     "Computer Science/README Template.md",
     "Adam Assignments/09-2024/06Fr.md",
-    "Physics/Domino lab results.md",
     "Adam Assignments/09-2024/05Th.md",
     "Adam Assignments/09-2024/04We.md",
-    "Adam Assignments/09-2024/03Tu.md",
     "Adam Assignments/09-2024"
   ]
 }
