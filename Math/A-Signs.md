@@ -12,3 +12,5 @@ right arrow & left arrow
 SIGMA
 # $\alpha$
 Alpha
+# $\begin{cases} a, & aa \\ b & bb3\\ c, & cc \end{cases}$
+Piecewise function

@@ -24,4 +24,9 @@ $\lim\limits_{x\rightarrow 2}f(x)\neq f(2)$, $f(x)$ is not cont. at $x=2$.
 # For Continuity on $[a,b]$
 1. $f(x)$ must be continuous for all $c$. $a<c<b$
 2. $\lim\limits_{x\rightarrow a^+}f(x)=f(a)$
-3. $\lim\limits_{x\rightarrow b^-}
+3. $\lim\limits_{x\rightarrow b^-}f(x)=f(b)$
+# Types of Discontinuities
+1. Hole (Removable Discontinuities)
+	- $f(x)$ has a piece missing, can use a piecewise function to fix it.
+2. Jump Discontinuity
+	- 
