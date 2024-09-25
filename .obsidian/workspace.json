@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adam Assignments/09-2024/25We.md",
+                "file": "Computer Science/Wrestling/Wrestler.java.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adam Assignments/09-2024/25We.md",
+                "file": "Computer Science/Wrestling/Wrestler.java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adam Assignments/09-2024/25We.md",
+                "file": "Computer Science/Wrestling/Wrestler.java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adam Assignments/09-2024/25We.md"
+                "file": "Computer Science/Wrestling/Wrestler.java.md"
               }
             }
           },
@@ -174,8 +174,10 @@
   },
   "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
-    "Physics/Newton Timeline Project.md",
     "Adam Assignments/09-2024/25We.md",
+    "Computer Science/Wrestling/Wrestler.java.md",
+    "Computer Science/Wrestling",
+    "Physics/Newton Timeline Project.md",
     "Physics/20 Choices NTP.md",
     "Adam Assignments/09-2024/24Tu.md",
     "Adam Assignments/09-2024/23Mo.md",
@@ -199,7 +201,6 @@
     "Adam Assignments/09-2024/13Fr.md",
     "Adam Assignments/09-2024/12Th.md",
     "Adam Assignments/09-2024/11We.md",
-    "Adam Assignments/09-2024/10Tu.md",
     "Adam Assignments/09-2024"
   ]
 }
