@@ -18,3 +18,10 @@
 	public String getName() {
 		return this.name;
 	}
+	
+	public String toString() {
+		String output = "";
+		output += "Name: " + this.name;
+		output += "\nWeight: " + this.weight;
+		return output;
+	}
