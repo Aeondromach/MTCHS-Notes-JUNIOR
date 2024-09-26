@@ -6,3 +6,8 @@ $f(b)=f(2)=2$
 
 $f(0)<f(c)<f(2)$
 $0<1<2$
+Since $f(x)=x$ is continuous on $[0,2]$, and $f(0)<f(c)<f(2)$, then by the IVT there exists a $c$, such that $0<c<2$.
+#### Example
+If $f(x)=x^2$ is continuous on $[-1,1]$, does there exist a $c$, such that $f(c)=4$.
+$f(a)=f(-1)=1$
+$f(b)=f(1)=1$
