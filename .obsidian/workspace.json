@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Intermediate Value Theorem (IVT).md",
+                "file": "Math/Limit Laws.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Intermediate Value Theorem (IVT).md",
+                "file": "Math/Limit Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Intermediate Value Theorem (IVT).md",
+                "file": "Math/Limit Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Intermediate Value Theorem (IVT).md"
+                "file": "Math/Limit Laws.md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
-    "Math/Unit 2/2.5c.md",
+    "Math/A-Signs.md",
     "Math/Intermediate Value Theorem (IVT).md",
+    "Math/Unit 2/2.5c.md",
     "Adam Assignments/09-2024/25We.md",
     "Math/Unit 2",
     "Adam Assignments/09-2024/26Th.md",
@@ -187,7 +188,6 @@
     "Adam Assignments/09-2024/24Tu.md",
     "Adam Assignments/09-2024/23Mo.md",
     "Math/Continuity.md",
-    "Math/A-Signs.md",
     "Math/One Sided Limits.md",
     "Math/Limit Laws.md",
     "Adam Assignments/09-2024/20Fr.md",

@@ -11,3 +11,9 @@ Since $f(x)=x$ is continuous on $[0,2]$, and $f(0)<f(c)<f(2)$, then by the IVT t
 If $f(x)=x^2$ is continuous on $[-1,1]$, does there exist a $c$, such that $f(c)=4$.
 $f(a)=f(-1)=1$
 $f(b)=f(1)=1$
+
+$f(-1)<f(c)<f(1)$
+$1<4<1$
+***NOPE***
+
+Since $f(x)=x^2$ is continuous and $f(-1)\
