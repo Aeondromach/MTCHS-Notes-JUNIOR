@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 2/2.5c.md",
+                "file": "Math/Intermediate Value Theorem (IVT).md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Unit 2/2.5c.md",
+                "file": "Math/Intermediate Value Theorem (IVT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Unit 2/2.5c.md",
+                "file": "Math/Intermediate Value Theorem (IVT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Unit 2/2.5c.md"
+                "file": "Math/Intermediate Value Theorem (IVT).md"
               }
             }
           },
@@ -174,8 +174,9 @@
   },
   "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
-    "Adam Assignments/09-2024/25We.md",
     "Math/Unit 2/2.5c.md",
+    "Math/Intermediate Value Theorem (IVT).md",
+    "Adam Assignments/09-2024/25We.md",
     "Math/Unit 2",
     "Adam Assignments/09-2024/26Th.md",
     "Computer Science/Wrestling/Wrestler.java.md",
@@ -201,7 +202,6 @@
     "Adam Assignments/09-2024/16Mo.md",
     "Adam Assignments/09-2024/19Th.md",
     "Adam Assignments/09-2024/17Tu.md",
-    "Adam Assignments/09-2024/15Su.md",
     "Adam Assignments/09-2024"
   ]
 }
