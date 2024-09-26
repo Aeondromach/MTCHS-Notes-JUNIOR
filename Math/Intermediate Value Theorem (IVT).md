@@ -1,0 +1,1 @@
+If $f(x)$ is continuous on $[a,b]$, then there exists a value $c$, where $a<c<b$ such that $f(c)$ is between $f(a)$ and $f(b)$.
