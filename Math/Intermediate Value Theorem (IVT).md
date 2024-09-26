@@ -19,10 +19,12 @@ $1<4<1$
 Since $f(x)=x^2$ is continuous and $f(-1)\leq f(c)\leq f(1)$, the IVT is inconclusive for $-1<c<1$
 #### Example
 Determine if $f(x)=2x^3-5x^2-10x+5$ has a zero on $[-1,2]$.
-(Is there a $c$, s.t. $f(c)=0$ on $[-1,2]$)
+(Is there a $c$, such that $f(c)=0$ on $[-1,2]$)
 
 $f(-1)=-2-5+10+5=8$
 $f(2)=16-20-20+5=-19$
 
 $f(2)<f(c)<f(-1)$
-$-19<0
+$-19<0<8$
+
+Since $f(x)$ is a polynomial function it is continuous, and since $f(2)<0<f(-1)$, by the IVT, there exists a $c$, such that $-1<c<2$, where $f(c)=0$.
