@@ -1,5 +1,6 @@
-`public class Wrestler
-
+```
+public class Wrestler
+{
 	//instance variables
 	private double height;
 	private double weight;
@@ -25,3 +26,5 @@
 		output += "\nWeight: " + this.weight;
 		return output;
 	}
+}
+```
