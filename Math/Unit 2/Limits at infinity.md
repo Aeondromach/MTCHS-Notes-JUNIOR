@@ -58,4 +58,6 @@ $\lim\limits_{x\rightarrow \infty}x-\sqrt{x^2+16}$
 	$=\frac{0}{\lim\limits_{x\rightarrow \infty}1+\sqrt{1+\frac{16}{x^2}}}$
 	$\lim\limits_{x\rightarrow \infty}\frac{16}{x^2}=0$
 	$=\frac{0}{\lim\limits_{x\rightarrow \infty}1+\sqrt{1+0}}$
-	$=\frac{0}
+	$=\frac{0}{\lim\limits_{x\rightarrow \infty}2}$
+	$=\frac{0}{2}=0$
+	
