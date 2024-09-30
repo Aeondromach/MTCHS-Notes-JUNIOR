@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Forced load time.md",
+                "file": "Computer Science/ShapeInter/Square.java.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Forced load time.md",
+                "file": "Computer Science/ShapeInter/Square.java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Forced load time.md",
+                "file": "Computer Science/ShapeInter/Square.java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Forced load time.md"
+                "file": "Computer Science/ShapeInter/Square.java.md"
               }
             }
           },
@@ -174,9 +174,13 @@
   },
   "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
+    "Computer Science/ShapeInter/ShapeInterface.java.md",
+    "Computer Science/ShapeInter/Square.java.md",
+    "Computer Science/ShapeInter/ShapeDriver.java.md",
+    "Computer Science/Forced load time.md",
+    "Computer Science/ShapeInter",
     "Adam Assignments/09-2024/30Mo.md",
     "Adam Assignments/09-2024/29Su.md",
-    "Computer Science/Forced load time.md",
     "Adam Assignments/09-2024/27Fr.md",
     "Computer Science/Wrestling/WWF.java.md",
     "Computer Science/Wrestling/Wrestler.java.md",
@@ -199,9 +203,6 @@
     "Physics/MPP.md",
     "Physics/Marble lab notes.md",
     "Physics/Domino lab results.md",
-    "Adam Assignments/09-2024/22Su.md",
-    "Math/A-Definitions.md",
-    "Math/Inversing a Function.md",
     "Adam Assignments/09-2024"
   ]
 }
