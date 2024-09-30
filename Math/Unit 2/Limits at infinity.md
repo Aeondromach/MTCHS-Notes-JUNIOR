@@ -17,4 +17,11 @@ $\lim\limits_{x\rightarrow \infty}f(x)$
 		$p=0$
 		$q=1$
 		$\lim\limits_{x\rightarrow \infty}\frac{1}{x}=0$
+	#### Example
+	$\lim\limits_{x\rightarrow \infty}\frac{5x^2+8x-3}{3x^2+2}$
+		$p(x)=5x^2+8x-3$
+		$q(x)=3x^2+2$
+		$p=2$
+		$q=2$
+		$\lim\limits_{x\rightarrow \infty}
 1. 
