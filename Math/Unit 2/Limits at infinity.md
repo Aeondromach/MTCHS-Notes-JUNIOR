@@ -45,11 +45,17 @@ $\lim\limits_{x\rightarrow \infty}\frac{\sin(x)}{x}$
 	$\lim\limits_{x\rightarrow \infty}\frac{\sin(x)}{x}+2=\lim\limits_{x\rightarrow \infty}\frac{\sin(x)}{x}+\lim\limits_{x\rightarrow \infty}2$
 	$=0+2$
 	$=2$
-#### Example
+#### Example (how to want to kill yourself)
 $\lim\limits_{x\rightarrow \infty}x-\sqrt{x^2+16}$
 	$\lim\limits_{x\rightarrow \infty}x-\sqrt{x^2+16}(\frac{x+\sqrt{x^2+16}}{x+\sqrt{x^2+16}}$
 	$\lim\limits_{x\rightarrow \infty}\frac{x^2-(x^2+16)}{x+\sqrt{x^2+16}}$
 	$\lim\limits_{x\rightarrow \infty}\frac{-16}{x+\sqrt{x^2+16}}$
 	$\lim\limits_{x\rightarrow \infty}\frac{\frac{-16}{x}}{\frac{1}{x}(x+\sqrt{x^2+16})}$
 	$\lim\limits_{x\rightarrow \infty}\frac{\frac{-16}{x}}{1+\frac{1}{x}\sqrt{x^2+16}}$
-	$\lim\limits_{x\rightarrow \infty}\frac{\frac{-16}{x}}{1+\sqrt{\frac{x^2}{x^2}}}
+	$\lim\limits_{x\rightarrow \infty}\frac{\frac{-16}{x}}{1+\sqrt{\frac{x^2}{x^2}+\frac{16}{x^2}}}$
+	$\lim\limits_{x\rightarrow \infty}\frac{\frac{-16}{x}}{1+\sqrt{1+\frac{16}{x^2}}}$
+	$=\frac{\lim\limits_{x\rightarrow \infty}\frac{-16}{x}}{\lim\limits_{x\rightarrow \infty}1+\sqrt{1+\frac{16}{x^2}}}$
+	$=\frac{0}{\lim\limits_{x\rightarrow \infty}1+\sqrt{1+\frac{16}{x^2}}}$
+	$\lim\limits_{x\rightarrow \infty}\frac{16}{x^2}=0$
+	$=\frac{0}{\lim\limits_{x\rightarrow \infty}1+\sqrt{1+0}}$
+	$=\frac{0}
