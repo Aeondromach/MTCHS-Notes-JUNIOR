@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adam Assignments/09-2024/30Mo.md",
+                "file": "Math/Unit 2/Limits at infinity.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adam Assignments/09-2024/30Mo.md",
+                "file": "Math/Unit 2/Limits at infinity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adam Assignments/09-2024/30Mo.md",
+                "file": "Math/Unit 2/Limits at infinity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,25 +135,43 @@
             }
           },
           {
-            "id": "128ed59aaa308c6e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Adam Assignments/09-2024/30Mo.md"
-              }
-            }
-          },
-          {
             "id": "9303406088e32d98",
             "type": "leaf",
             "state": {
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "128ed59aaa308c6e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Math/Unit 2/Limits at infinity.md"
+              }
+            }
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "3c12d31c25b11f68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10f0a70b1e3f2618",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/A-Signs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,21 +190,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6166ac12f8e3759",
+  "active": "128ed59aaa308c6e",
   "lastOpenFiles": [
+    "Math/A-Signs.md",
+    "Math/Unit 2/Limits at infinity.md",
+    "Math/Unit 2/Limit Laws.md",
+    "Math/Unit 2/Intermediate Value Theorem (IVT).md",
+    "Math/Unit 2/One Sided Limits.md",
+    "Adam Assignments/09-2024/30Mo.md",
     "Computer Science/ShapeInter/Square.java.md",
     "Computer Science/ShapeInter/ShapeInterface.java.md",
     "Computer Science/ShapeInter/ShapeDriver.java.md",
     "Computer Science/Forced load time.md",
     "Computer Science/ShapeInter",
-    "Adam Assignments/09-2024/30Mo.md",
     "Adam Assignments/09-2024/29Su.md",
     "Adam Assignments/09-2024/27Fr.md",
     "Computer Science/Wrestling/WWF.java.md",
     "Computer Science/Wrestling/Wrestler.java.md",
-    "Math/Intermediate Value Theorem (IVT).md",
-    "Math/A-Signs.md",
-    "Math/Limit Laws.md",
     "Math/Unit 2/2.5c.md",
     "Adam Assignments/09-2024/25We.md",
     "Math/Unit 2",
@@ -196,13 +216,11 @@
     "Physics/20 Choices NTP.md",
     "Adam Assignments/09-2024/24Tu.md",
     "Adam Assignments/09-2024/23Mo.md",
-    "Math/Continuity.md",
-    "Math/One Sided Limits.md",
+    "Math/Unit 2/Continuity.md",
     "Adam Assignments/09-2024/20Fr.md",
-    "Math/Secant and Tangent Lines.md",
+    "Math/Unit 1/Secant and Tangent Lines.md",
     "Physics/MPP.md",
     "Physics/Marble lab notes.md",
-    "Physics/Domino lab results.md",
     "Adam Assignments/09-2024"
   ]
 }
