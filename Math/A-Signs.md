@@ -12,7 +12,7 @@ right arrow & left arrow
 SIGMA
 # $\alpha$
 Alpha
-# $\begin{cases} a, & aa \\ b & bb3\\ c, & cc \end{cases}$
+# $\begin{cases} a, & aa \\ b & bb\\ c, & cc \end{cases}$
 Piecewise function
 # < > $\leq$ $\geq$ 
 less than, greater than, less than or equal to, greater than or equal to

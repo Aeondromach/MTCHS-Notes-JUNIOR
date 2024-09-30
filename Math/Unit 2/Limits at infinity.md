@@ -31,4 +31,10 @@ $\lim\limits_{x\rightarrow \infty}f(x)=b$
 $\lim\limits_{x\rightarrow -\infty}f(x)=b$
 b is a constant.
 #### Example
-Find $\lim\limits_{x\rightarrow \infty}
+Find $\lim\limits_{x\rightarrow \infty}\sin(\frac{1}{x})$
+	$\lim\limits_{x\rightarrow \infty}\frac{1}{x}=0$
+	$\lim\limits_{x\rightarrow \infty}\sin(0)=0$
+#### Example
+$\lim\limits_{x\rightarrow \infty}\frac{\sin(x)}{x}$
+	$\lim\limits_{x\rightarrow \infty}\frac{\sin(x)}{x}+\lim\limits_{x\rightarrow \infty}2$
+	$
