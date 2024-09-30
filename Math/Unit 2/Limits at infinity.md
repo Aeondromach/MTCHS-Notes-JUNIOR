@@ -47,4 +47,9 @@ $\lim\limits_{x\rightarrow \infty}\frac{\sin(x)}{x}$
 	$=2$
 #### Example
 $\lim\limits_{x\rightarrow \infty}x-\sqrt{x^2+16}$
-	$\lim\limits_{x\rightarrow \infty}x-\sqrt{x^2+16}$
+	$\lim\limits_{x\rightarrow \infty}x-\sqrt{x^2+16}(\frac{x+\sqrt{x^2+16}}{x+\sqrt{x^2+16}}$
+	$\lim\limits_{x\rightarrow \infty}\frac{x^2-(x^2+16)}{x+\sqrt{x^2+16}}$
+	$\lim\limits_{x\rightarrow \infty}\frac{-16}{x+\sqrt{x^2+16}}$
+	$\lim\limits_{x\rightarrow \infty}\frac{\frac{-16}{x}}{\frac{1}{x}(x+\sqrt{x^2+16})}$
+	$\lim\limits_{x\rightarrow \infty}\frac{\frac{-16}{x}}{1+\frac{1}{x}\sqrt{x^2+16}}$
+	$\lim\limits_{x\rightarrow \infty}\frac{\frac{-16}{x}}{1+\sqrt{\frac{x^2}{x^2}}}
