@@ -40,4 +40,11 @@ $\lim\limits_{x\rightarrow \infty}\frac{\sin(x)}{x}$
 	$\lim\limits_{x\rightarrow \infty}\frac{\sin(x)}{x}+2$
 	$0\leq |\frac{\sin(x)}{x}|\leq|\frac{1}{x}$ or $\frac{-1}{x}\leq\frac{\sin(x)}{x}\leq\frac{1}{x}$
 	$\lim\limits_{x\rightarrow \infty}0\leq\lim\limits_{x\rightarrow \infty}\frac{\sin(x)}{x}\leq\lim\limits_{x\rightarrow \infty}\frac{1}{x}$
-	$0\l
+	$0\leq\lim\limits_{x\rightarrow \infty}\frac{\sin(x)}{x}\leq0$
+	$\lim\limits_{x\rightarrow \infty}\frac{\sin(x)}{x}=0$
+	$\lim\limits_{x\rightarrow \infty}\frac{\sin(x)}{x}+2=\lim\limits_{x\rightarrow \infty}\frac{\sin(x)}{x}+\lim\limits_{x\rightarrow \infty}2$
+	$=0+2$
+	$=2$
+#### Example
+$\lim\limits_{x\rightarrow \infty}x-\sqrt{x^2+16}$
+	$\lim\limits_{x\rightarrow \infty}x-\sqrt{x^2+16}$
