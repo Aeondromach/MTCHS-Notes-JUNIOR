@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 2/Limits at infinity.md",
+                "file": "Adam Assignments/09-2024/30Mo.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Unit 2/Limits at infinity.md",
+                "file": "Adam Assignments/09-2024/30Mo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Unit 2/Limits at infinity.md",
+                "file": "Adam Assignments/09-2024/30Mo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Unit 2/Limits at infinity.md"
+                "file": "Adam Assignments/09-2024/30Mo.md"
               }
             }
           }
@@ -190,8 +190,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9303406088e32d98",
+  "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
+    "Adam Assignments/09-2024/16Mo.md",
     "Math/A-Signs.md",
     "Math/Unit 2/Limits at infinity.md",
     "Math/Unit 2/Limit Laws.md",
@@ -220,7 +221,6 @@
     "Adam Assignments/09-2024/20Fr.md",
     "Math/Unit 1/Secant and Tangent Lines.md",
     "Physics/MPP.md",
-    "Physics/Marble lab notes.md",
     "Adam Assignments/09-2024"
   ]
 }
