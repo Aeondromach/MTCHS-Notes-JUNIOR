@@ -68,4 +68,7 @@ Find the vertical asymptotes of $f(x)=\frac{1}{x+2}$
 	$\lim\limits_{x\rightarrow -2^+}\frac{1}{x+2}=-\infty$
 	$\frac{1}{-2.1+2}=\frac{1}{-1}=-10$
 	$\frac{1}{-2.01+2}=\frac{1}{-.01}=-100$
-	
+	$\lim\limits_{x\rightarrow -2^+}\frac{1}{x+2}=\infty$
+	Vertical asymptote at x=-2.
+#### Example
+Find the Horizontal asymptote and vertical asymptote of $f(x)=\frac{x+3}{x+2}$
