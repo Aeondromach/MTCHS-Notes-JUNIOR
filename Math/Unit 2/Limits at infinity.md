@@ -65,4 +65,7 @@ $\lim\limits_{x\rightarrow \infty}x-\sqrt{x^2+16}$
 The line $x=a$ (a is a constant) is a vertical asymptote if $\lim\limits_{x\rightarrow a^+}f(x)=+/-\infty$ or $\lim\limits_{x\rightarrow a^-}f(x)=+/-\infty$.
 #### Example
 Find the vertical asymptotes of $f(x)=\frac{1}{x+2}$
+	$\lim\limits_{x\rightarrow -2^+}\frac{1}{x+2}=-\infty$
+	$\frac{1}{-2.1+2}=\frac{1}{-1}=-10$
+	$\frac{1}{-2.01+2}=\frac{1}{-.01}=-100$
 	
