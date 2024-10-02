@@ -72,3 +72,10 @@ Find the vertical asymptotes of $f(x)=\frac{1}{x+2}$
 	Vertical asymptote at x=-2.
 #### Example
 Find the Horizontal asymptote and vertical asymptote of $f(x)=\frac{x+3}{x+2}$
+	Horz:
+	$\lim\limits_{x\rightarrow \infty}\frac{x+3}{x+2}=1$
+	Horizontal asymptote at $y=1$
+	Vert:
+	$\lim\limits_{x\rightarrow -2^-}\frac{x+3}{x+2}=-\infty$
+	$\lim\limits_{x\rightarrow -2^-}
+	
