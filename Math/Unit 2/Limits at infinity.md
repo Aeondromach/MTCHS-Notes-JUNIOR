@@ -60,4 +60,9 @@ $\lim\limits_{x\rightarrow \infty}x-\sqrt{x^2+16}$
 	$=\frac{0}{\lim\limits_{x\rightarrow \infty}1+\sqrt{1+0}}$
 	$=\frac{0}{\lim\limits_{x\rightarrow \infty}2}$
 	$=\frac{0}{2}=0$
+## Vertical Asymptotes
+---
+The line $x=a$ (a is a constant) is a vertical asymptote if $\lim\limits_{x\rightarrow a^+}f(x)=+/-\infty$ or $\lim\limits_{x\rightarrow a^-}f(x)=+/-\infty$.
+#### Example
+Find the vertical asymptotes of $f(x)=\frac{1}{x+2}$
 	
