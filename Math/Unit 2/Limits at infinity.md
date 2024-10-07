@@ -66,7 +66,7 @@ The line $x=a$ (a is a constant) is a vertical asymptote if $\lim\limits_{x\righ
 #### Example
 Find the vertical asymptotes of $f(x)=\frac{1}{x+2}$
 	$\lim\limits_{x\rightarrow -2^+}\frac{1}{x+2}=-\infty$
-	$\frac{1}{-2.1+2}=\frac{1}{-1}=-10$
+	$\frac{1}{-2+2}=\frac{1}{0}=0$
 	$\frac{1}{-2.01+2}=\frac{1}{-.01}=-100$
 	$\lim\limits_{x\rightarrow -2^+}\frac{1}{x+2}=\infty$
 	Vertical asymptote at x=-2.
