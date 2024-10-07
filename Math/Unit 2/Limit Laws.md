@@ -1,7 +1,7 @@
 # Example text
 Given the function $f(x)=\frac{x^2-1}{x-1}$, what is happening to the output as x gets very close to 1?
 
-## #Limits
+## Limits
 Let $f(x)$ be a function defined on the open interval $[a,b]$ around $c$ ($f(c)$ may pr may not exist.) The limit of $f(x)$ as $x$ approaches $c$ is the number $L$: $\lim\limits_{x\rightarrow c}f(x)=L$. $\lim\limits_{x\rightarrow c}f(x)=L$ if, for every number $\epsilon > 0$, there exists a corresponding number $\delta > 0$ such that for all $x$: $0<|x-c|<\delta=>f(x)-L|<\epsilon$
 
 $0<|x-c|<\delta$

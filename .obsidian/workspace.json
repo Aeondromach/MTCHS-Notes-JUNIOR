@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 2/Intermediate Value Theorem (IVT).md",
+                "file": "Math/Unit 2/Limit Laws.md",
                 "mode": "source",
                 "source": false
               }
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Limits",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -100,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Unit 2/Intermediate Value Theorem (IVT).md",
+                "file": "Math/Unit 2/Limit Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Unit 2/Intermediate Value Theorem (IVT).md",
+                "file": "Math/Unit 2/Limit Laws.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Unit 2/Intermediate Value Theorem (IVT).md"
+                "file": "Math/Unit 2/Limit Laws.md"
               }
             }
           }
@@ -190,10 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6166ac12f8e3759",
+  "active": "bd5ddea3163eee83",
   "lastOpenFiles": [
-    "Math/Unit 2/Limits at infinity.md",
     "Math/Unit 2/Intermediate Value Theorem (IVT).md",
+    "Math/Unit 2/Limits at infinity.md",
     "Math/Unit 2/One Sided Limits.md",
     "Adam Assignments/10-2024/03Th.md",
     "Adam Assignments/10-2024/07Mo.md",
