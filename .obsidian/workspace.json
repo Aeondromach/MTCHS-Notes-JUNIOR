@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 2/Intermediate Value Theorem (IVT).md",
+                "file": "Math/Unit 2/Limits at infinity.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Unit 2/Intermediate Value Theorem (IVT).md",
+                "file": "Math/Unit 2/Limits at infinity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Unit 2/Intermediate Value Theorem (IVT).md",
+                "file": "Math/Unit 2/Limits at infinity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Unit 2/Intermediate Value Theorem (IVT).md"
+                "file": "Math/Unit 2/Limits at infinity.md"
               }
             }
           }
@@ -192,6 +192,7 @@
   },
   "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
+    "Math/Unit 2/Intermediate Value Theorem (IVT).md",
     "Math/Unit 2/One Sided Limits.md",
     "Adam Assignments/10-2024/03Th.md",
     "Adam Assignments/10-2024/07Mo.md",
@@ -203,7 +204,6 @@
     "Adam Assignments/10-2024",
     "Adam Assignments/09-2024/16Mo.md",
     "Math/Unit 2/Limit Laws.md",
-    "Math/Unit 2/Intermediate Value Theorem (IVT).md",
     "Computer Science/ShapeInter/Square.java.md",
     "Computer Science/ShapeInter/ShapeInterface.java.md",
     "Computer Science/ShapeInter/ShapeDriver.java.md",
