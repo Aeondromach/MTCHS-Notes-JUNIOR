@@ -29,4 +29,4 @@ Find $f^1(x)$ when $f(x)=\sqrt{x+2}$
 	$f^1(x)=\lim\limits_{h\rightarrow0}\frac{h}{h(\sqrt{x+h+2}+\sqrt{x+2})}$
 	$f^1(x)=\lim\limits_{h\rightarrow0}\frac{1}{\sqrt{x+h+2}+\sqrt{x+2}}$
 	$f^1(x)=\frac{1}{\sqrt{x+0+2}+\sqrt{x+2}}$
-	$
+	$f^1(x)=\frac{1}{2\sqrt{x+2}}$
