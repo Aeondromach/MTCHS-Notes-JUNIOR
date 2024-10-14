@@ -23,4 +23,10 @@ Slope at $(1,1)$ of $f(x)$ is $2$.
 #### Example
 Find $f^1(x)$ when $f(x)=\sqrt{x+2}$
 	$f^1(x)=\lim\limits_{h\rightarrow0}\frac{\sqrt{(x+h)+2}-\sqrt(x)}{h}$
-	$f^1(x)=\lim\limits_{h\rightarrow0}\frac{(\sqrt{x+h+2}-\sqrt{x+2})}
+	$f^1(x)=\lim\limits_{h\rightarrow0}\frac{(\sqrt{x+h+2}-\sqrt{x+2})}{h}(\frac{\sqrt{x+h+2}+\sqrt{x+2}}{\sqrt{x+h+2}+\sqrt{x+2}})$
+	$f^1(x)=\lim\limits_{h\rightarrow0}\frac{((x+h+2)-(x+2)}{h(\sqrt{x+h+2}+\sqrt{x+2})}$
+	$f^1(x)=\lim\limits_{h\rightarrow0}\frac{x+h+2-x-2}{h(\sqrt{x+h+2}+\sqrt{x+2})}$
+	$f^1(x)=\lim\limits_{h\rightarrow0}\frac{h}{h(\sqrt{x+h+2}+\sqrt{x+2})}$
+	$f^1(x)=\lim\limits_{h\rightarrow0}\frac{1}{\sqrt{x+h+2}+\sqrt{x+2}}$
+	$f^1(x)=\frac{1}{\sqrt{x+0+2}+\sqrt{x+2}}$
+	$
