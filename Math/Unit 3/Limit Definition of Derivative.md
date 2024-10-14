@@ -16,5 +16,11 @@ Find $f^1(x)$ when $f(x)=x^2$, then find the slope of the line tangent to $f(x)$
 	$f^1(x)=\lim\limits_{h\rightarrow0}2x+h$
 	$f^1(x)=2x+0$
 	$f^1(x)=2x$
+##### Find the Slope of $f(x)$ at $(1,1)$.
+	$f^1(1)=2(1)$
+	$f^1(1)=2$
+Slope at $(1,1)$ of $f(x)$ is $2$.
 #### Example
-Find the Slo
+Find $f^1(x)$ when $f(x)=\sqrt{x+2}$
+	$f^1(x)=\lim\limits_{h\rightarrow0}\frac{\sqrt{(x+h)+2}-\sqrt(x)}{h}$
+	$f^1(x)=\lim\limits_{h\rightarrow0}\frac{(\sqrt{x+h+2}-\sqrt{x+2})}
