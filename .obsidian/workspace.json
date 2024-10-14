@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adam Assignments/10-2024/08Tu.md",
+                "file": "Math/Unit 2/Limit Definition of Derivative.md",
                 "mode": "source",
                 "source": false
               }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adam Assignments/10-2024/08Tu.md",
+                "file": "Math/Unit 2/Limit Definition of Derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adam Assignments/10-2024/08Tu.md",
+                "file": "Math/Unit 2/Limit Definition of Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adam Assignments/10-2024/08Tu.md"
+                "file": "Math/Unit 2/Limit Definition of Derivative.md"
               }
             }
           }
@@ -192,8 +192,10 @@
   },
   "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
-    "Adam Assignments/10-2024/07Mo.md",
+    "Adam Assignments/10-2024/14Mo.md",
+    "Math/Unit 2/Limit Definition of Derivative.md",
     "Adam Assignments/10-2024/08Tu.md",
+    "Adam Assignments/10-2024/07Mo.md",
     "Math/Unit 2/Limits at infinity.md",
     "Math/Unit 2/Continuity.md",
     "Math/Unit 2/Limit Laws.md",
@@ -220,8 +222,6 @@
     "Math/Unit 2",
     "Adam Assignments/09-2024/26Th.md",
     "Computer Science/Wrestling",
-    "Physics/Newton Timeline Project.md",
-    "Physics/20 Choices NTP.md",
     "Adam Assignments/09-2024"
   ]
 }
