@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adam Assignments/09-2024/16Mo.md",
+                "file": "Math/Unit 3/Limit Definition of Derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adam Assignments/09-2024/16Mo.md",
+                "file": "Math/Unit 3/Limit Definition of Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adam Assignments/09-2024/16Mo.md"
+                "file": "Math/Unit 3/Limit Definition of Derivative.md"
               }
             }
           }
@@ -190,8 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9303406088e32d98",
+  "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
+    "Adam Assignments/10-2024/15Tu.md",
+    "Adam Assignments/09-2024/16Mo.md",
     "Math/Unit 3",
     "Adam Assignments/10-2024/14Mo.md",
     "Math/Unit 3/Limit Definition of Derivative.md",
@@ -208,7 +210,6 @@
     "Adam Assignments/10-2024/01Tu.md",
     "Adam Assignments/09-2024/30Mo.md",
     "Adam Assignments/10-2024",
-    "Adam Assignments/09-2024/16Mo.md",
     "Computer Science/ShapeInter/Square.java.md",
     "Computer Science/ShapeInter/ShapeInterface.java.md",
     "Computer Science/ShapeInter/ShapeDriver.java.md",
