@@ -11,3 +11,11 @@ $y=f(x)$
 
 ---
 For a function $f(x)$ to be differentiable at a point, it must be continuous at that point. For a function to be differential on it's entire domain, $f(x)$ must have a derivative at each point in the domain.
+
+## THM
+Differentiability implies continuity.
+	If $f(x)$ has a derivative at $x=c$ (i.e. $f^1(c)$ exists), then $f$ is continuous at $c$.
+	
+### Points on a function that are not differentiable.
+1. **Corners:** A sharp turn in a function (like a 90$\degree$ angle)
+2. 
