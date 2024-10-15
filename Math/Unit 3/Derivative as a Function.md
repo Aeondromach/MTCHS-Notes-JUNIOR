@@ -18,4 +18,7 @@ Differentiability implies continuity.
 	
 ### Points on a function that are not differentiable.
 1. **Corners:** A sharp turn in a function (like a 90$\degree$ angle)
-2. 
+2. **Cusps:** When two points infinitely approach a value with no limit 
+		(think of a volcano)
+1. **Discontinuity:** When a value jumps 
+		(think of a cliff)
