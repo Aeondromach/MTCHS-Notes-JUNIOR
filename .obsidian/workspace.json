@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Unit 3/Limit Definition of Derivative.md",
+                "file": "Adam Assignments/09-2024/16Mo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Unit 3/Limit Definition of Derivative.md",
+                "file": "Adam Assignments/09-2024/16Mo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Unit 3/Limit Definition of Derivative.md"
+                "file": "Adam Assignments/09-2024/16Mo.md"
               }
             }
           }
@@ -175,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 307.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "914da87d9a5e806b",
+  "active": "9303406088e32d98",
   "lastOpenFiles": [
     "Math/Unit 3",
     "Adam Assignments/10-2024/14Mo.md",
