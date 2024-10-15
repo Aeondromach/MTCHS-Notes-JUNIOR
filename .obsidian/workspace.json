@@ -32,9 +32,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "92eaea3a4c20e450",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Unit 3/Limit Definition of Derivative.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -100,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Unit 1/Secant and Tangent Lines.md",
+                "file": "Math/Unit 3/Limit Definition of Derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Unit 1/Secant and Tangent Lines.md",
+                "file": "Math/Unit 3/Limit Definition of Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Unit 1/Secant and Tangent Lines.md"
+                "file": "Math/Unit 3/Limit Definition of Derivative.md"
               }
             }
           }
@@ -190,8 +202,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f6166ac12f8e3759",
+  "active": "92eaea3a4c20e450",
   "lastOpenFiles": [
+    "Math/Unit 1/Secant and Tangent Lines.md",
     "Math/Unit 3/Limit Definition of Derivative.md",
     "Adam Assignments/10-2024/15Tu.md",
     "Adam Assignments/09-2024/16Mo.md",
@@ -220,7 +233,6 @@
     "Computer Science/Wrestling/WWF.java.md",
     "Computer Science/Wrestling/Wrestler.java.md",
     "Math/Unit 2/2.5c.md",
-    "Adam Assignments/09-2024/25We.md",
     "Math/Unit 2",
     "Computer Science/Wrestling",
     "Adam Assignments/09-2024"
