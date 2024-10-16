@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 1/Secant and Tangent Lines.md",
+                "file": "Math/Unit 3/Limit Definition of Derivative.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Unit 1/Secant and Tangent Lines.md",
+                "file": "Math/Unit 3/Limit Definition of Derivative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Unit 1/Secant and Tangent Lines.md",
+                "file": "Math/Unit 3/Limit Definition of Derivative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Unit 1/Secant and Tangent Lines.md"
+                "file": "Math/Unit 3/Limit Definition of Derivative.md"
               }
             }
           }
@@ -204,10 +204,11 @@
   },
   "active": "92eaea3a4c20e450",
   "lastOpenFiles": [
+    "Math/Unit 2/Intermediate Value Theorem (IVT).md",
+    "Math/Unit 1/Secant and Tangent Lines.md",
     "Math/Unit 3/Limit Definition of Derivative.md",
     "Math/Unit 3/Derivative as a Function.md",
     "Adam Assignments/10-2024/16We.md",
-    "Math/Unit 1/Secant and Tangent Lines.md",
     "Adam Assignments/10-2024/15Tu.md",
     "Adam Assignments/09-2024/16Mo.md",
     "Math/Unit 3",
@@ -218,7 +219,6 @@
     "Math/Unit 2/Continuity.md",
     "Math/Unit 2/Limit Laws.md",
     "Math/Unit 2/One Sided Limits.md",
-    "Math/Unit 2/Intermediate Value Theorem (IVT).md",
     "Adam Assignments/10-2024/03Th.md",
     "Math/A-Signs.md",
     "Adam Assignments/10-2024/02We.md",
