@@ -21,4 +21,4 @@ Differentiability implies continuity.
 2. **Cusps:** When two points infinitely approach a value with no limit 
 		(think of a volcano)
 1. **Discontinuity:** When a value jumps 
-		(think of a cliff)
+		(think of a cliff And what I wish to do off of it)
