@@ -8,3 +8,4 @@ $f^1(x)=nx^{n-1}$
 #### Example
 $f(x)=\sqrt{x}^1$
 $f^1(x)=1$ $1x^\theta\text{ or }1$
+# Constant Multiple Rule
