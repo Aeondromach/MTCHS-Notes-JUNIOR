@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adam Assignments/10-2024/21Mo.md",
+                "file": "Math/Unit 3/Derivatives of Trig Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21Mo"
+              "title": "Derivatives of Trig Functions"
             }
           }
         ],
@@ -227,8 +227,9 @@
   },
   "active": "92eaea3a4c20e450",
   "lastOpenFiles": [
-    "Math/Unit 3/Derivative Rules.md",
     "Adam Assignments/10-2024/21Mo.md",
+    "Math/Unit 3/Derivatives of Trig Functions.md",
+    "Math/Unit 3/Derivative Rules.md",
     "Adam Assignments/10-2024/18Fr.md",
     "Adam Assignments/10-2024/17Th.md",
     "Math/Unit 3/Rules.md",
@@ -254,7 +255,6 @@
     "Adam Assignments/09-2024/30Mo.md",
     "Adam Assignments/10-2024",
     "Computer Science/ShapeInter/Square.java.md",
-    "Computer Science/ShapeInter/ShapeInterface.java.md",
     "Computer Science/ShapeInter",
     "Math/Unit 2",
     "Computer Science/Wrestling",
