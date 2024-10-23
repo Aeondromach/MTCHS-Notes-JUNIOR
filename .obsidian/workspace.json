@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 3/Derivative Rules.md",
+                "file": "Math/Unit 3/Derivatives of Trig Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Derivative Rules"
+              "title": "Derivatives of Trig Functions"
             }
           }
         ],
@@ -227,10 +227,10 @@
   },
   "active": "92eaea3a4c20e450",
   "lastOpenFiles": [
+    "Math/Unit 3/Derivative Rules.md",
+    "Math/Unit 3/Derivatives of Trig Functions.md",
     "Math/Unit 3/Derivative as a Function.md",
     "Math/Unit 3/Limit Definition of Derivative.md",
-    "Math/Unit 3/Derivatives of Trig Functions.md",
-    "Math/Unit 3/Derivative Rules.md",
     "Adam Assignments/10-2024/23We.md",
     "Adam Assignments/10-2024/22Tu.md",
     "Adam Assignments/10-2024/21Mo.md",
