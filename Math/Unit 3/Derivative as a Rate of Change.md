@@ -12,3 +12,8 @@ Given the graph of of $v(t)$
 when $v(t)=0$, not moving
 when $v(t) > 0$, moving forward
 when $v(t) < 0$, moving backward
+# Displacement
+How far has something moved:
+$[a,b]$ - Interval
+$s(t)$ - position as a function of time
+$d=s(b)-s(a)$                       
