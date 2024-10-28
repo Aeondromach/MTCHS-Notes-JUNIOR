@@ -24,5 +24,7 @@
 - Java
 - Unity
 - HTML
+- OSHA
 # Future Opportunities
+## Future plan
 ## 
