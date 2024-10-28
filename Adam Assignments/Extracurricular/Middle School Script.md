@@ -26,7 +26,6 @@
 - HTML
 - OSHA
 # Future Opportunities
-## Future plan
 ## Plans for this year
 ### Video Game Competition
 - Skills USA
@@ -38,3 +37,14 @@
 - Preparing for our first competition in December
 ### Collecting college credits like candy
 - CS121, Java and object oriented code, finishing next month
+- Business 2, preparing for business
+- Calculus 1, math but hard
+- Conceptual Physics
+#### Next Year
+- CS221
+- Calculus 2
+- *Others?*
+## Future plan
+### College
+- Currently plan on attending Boise State University
+- Plan on Dual majoring in GIMM (Game Interface)
