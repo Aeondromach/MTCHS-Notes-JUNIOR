@@ -17,4 +17,12 @@
 - Got certified in Unity, which has also lead into me becoming familiar with other game engines
 ## Internship
 - Haven't done it yet, but just the idea of preparing has made me a very better man than I was even just a few month ago
--  
+## Certifications
+- Word
+- Powerpoint
+- Javascript
+- Java
+- Unity
+- HTML
+# Future Opportunities
+## 
