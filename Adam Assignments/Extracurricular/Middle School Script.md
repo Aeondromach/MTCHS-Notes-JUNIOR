@@ -2,7 +2,7 @@
 - Interested in tech
 - Dreams of becoming a Game Developer
 - Particular opportunities that couldn't be missed
-- Great school for subpar grades
+- Great school for my subpar grades
 - Offered great opportunities for Cybersecurity
 ## My Own Skills pre MTCHS
 - No programming experience
