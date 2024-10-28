@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Assignments.md",
+                "file": "Adam Assignments/Extracurricular/Middle School Script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assignments"
+              "title": "Middle School Script"
             }
           }
         ],
@@ -225,8 +225,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "914da87d9a5e806b",
+  "active": "92eaea3a4c20e450",
   "lastOpenFiles": [
+    "Templates/Assignments.md",
+    "Adam Assignments/Extracurricular/Middle School Script.md",
+    "Adam Assignments/Extracurricular",
     "Adam Assignments/10-2024/27Su.md",
     "Math/Unit 3/Derivative as a Rate of Change.md",
     "Math/Unit 3/Derivative Rules.md",
@@ -252,8 +255,6 @@
     "Adam Assignments/10-2024/07Mo.md",
     "Math/Unit 2/Limits at infinity.md",
     "Math/Unit 2/Continuity.md",
-    "Math/Unit 2/Limit Laws.md",
-    "Math/Unit 2/One Sided Limits.md",
     "Adam Assignments/10-2024",
     "Computer Science/ShapeInter",
     "Math/Unit 2",
