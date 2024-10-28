@@ -19,12 +19,22 @@
 - Haven't done it yet, but just the idea of preparing has made me a very better man than I was even just a few month ago
 ## Certifications
 - Word
-- Powerpoint
-- Javascript
+- PowerPoint
+- JavaScript
 - Java
 - Unity
 - HTML
 - OSHA
 # Future Opportunities
 ## Future plan
-## 
+## Plans for this year
+### Video Game Competition
+- Skills USA
+- Competition is April 7
+- Competing against everyone in the state
+- talk a little about the game maybe?
+### Robotics Competition
+- Planning on going for state
+- Preparing for our first competition in December
+### Collecting college credits like candy
+- CS121, Java and object oriented code, finishing next month
