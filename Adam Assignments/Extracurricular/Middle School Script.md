@@ -47,4 +47,8 @@
 ## Future plan
 ### College
 - Currently plan on attending Boise State University
-- Plan on Dual majoring in GIMM (Game Interface)
+- Plan on Dual majoring in GIMM (Games, Interactive Media, & Mobile Technology) and Computer Science
+- MTCHS makes dual majoring much easier as I am currently already enrolled into Computer Science, so by the time I go to college, I will already be halfway done with one of my majors
+- Because of MTCHS both giving college credits through normal classes, but also giving advanced opportunities, I will be finishing college in about half the time that someone else would take, for example, I am slated to finish college the same year as my sister, who is 23, and 2 years into college already.
+### Internships and future jobs
+- I plan on getting a job in either game design or game development in the near future, preferably over this summer actually, 
