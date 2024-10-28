@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 3/Derivative as a Rate of Change.md",
+                "file": "Templates/Assignments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Derivative as a Rate of Change"
+              "title": "Assignments"
             }
           }
         ],
@@ -225,12 +225,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92eaea3a4c20e450",
+  "active": "914da87d9a5e806b",
   "lastOpenFiles": [
+    "Adam Assignments/10-2024/27Su.md",
+    "Math/Unit 3/Derivative as a Rate of Change.md",
     "Math/Unit 3/Derivative Rules.md",
     "Math/Unit 3/Derivatives of Trig Functions.md",
     "Adam Assignments/10-2024/25Fr.md",
-    "Math/Unit 3/Derivative as a Rate of Change.md",
     "Adam Assignments/10-2024/24Th.md",
     "Math/Unit 3/Derivative as a Function.md",
     "Math/Unit 3/Limit Definition of Derivative.md",
@@ -253,7 +254,6 @@
     "Math/Unit 2/Continuity.md",
     "Math/Unit 2/Limit Laws.md",
     "Math/Unit 2/One Sided Limits.md",
-    "Adam Assignments/10-2024/03Th.md",
     "Adam Assignments/10-2024",
     "Computer Science/ShapeInter",
     "Math/Unit 2",
