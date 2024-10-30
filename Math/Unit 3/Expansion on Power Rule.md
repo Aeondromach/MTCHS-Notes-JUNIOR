@@ -7,4 +7,4 @@ $\frac{d}{dx}(x^\pi)$
 	$f(x)=e^x$
 	$g(x)=\pi\ln(x)$
 	$\frac{d}{dx}(e^{\pi\ln(x)})=e^{\pi\ln(x)}*\frac{\pi}{x\ln(e)}$
-	$=\frac\{\pi e^{\pi\ln(x)}}{x}$
+	$=\frac{\pi e^{\pi\ln(x)}}{x}$
