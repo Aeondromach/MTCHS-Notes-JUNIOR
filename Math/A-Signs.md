@@ -16,3 +16,5 @@ Alpha
 Piecewise function
 # < > $\leq$ $\geq$ 
 less than, greater than, less than or equal to, greater than or equal to
+# $\mathbb{R}$
+All Real Numbers

@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 2/Intermediate Value Theorem (IVT).md",
+                "file": "Math/Unit 3/Expansion on Power Rule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intermediate Value Theorem (IVT)"
+              "title": "Expansion on Power Rule"
             }
           }
         ],
@@ -227,13 +227,16 @@
   },
   "active": "92eaea3a4c20e450",
   "lastOpenFiles": [
-    "Math/A-Definitions.md",
+    "Math/A-Signs.md",
     "Math/Unit 3/Expansion on Power Rule.md",
+    "Math/Unit 3/Derivative Rules.md",
+    "Math/Unit 3/Limit Definition of Derivative.md",
+    "Math/Unit 2/Intermediate Value Theorem (IVT).md",
+    "Math/A-Definitions.md",
     "Math/Unit 3/Derivative of a Logarithm.md",
     "Math/Unit 3/Derivative of an Exponential.md",
     "Math/Unit 3/Derivatives of Trig Functions.md",
     "Math/Unit 3/Derivative as a Rate of Change.md",
-    "Math/Unit 3/Derivative Rules.md",
     "Adam Assignments/10-2024/30We.md",
     "Adam Assignments/Extracurricular/Middle School Script.md",
     "Adam Assignments/10-2024/28Mo.md",
@@ -242,18 +245,15 @@
     "Adam Assignments/10-2024/25Fr.md",
     "Adam Assignments/10-2024/24Th.md",
     "Math/Unit 3/Derivative as a Function.md",
-    "Math/Unit 3/Limit Definition of Derivative.md",
     "Adam Assignments/10-2024/23We.md",
     "Adam Assignments/10-2024/22Tu.md",
     "Adam Assignments/10-2024/21Mo.md",
     "Adam Assignments/10-2024/18Fr.md",
     "Adam Assignments/10-2024/17Th.md",
     "Math/Unit 3/Rules.md",
-    "Math/Unit 2/Intermediate Value Theorem (IVT).md",
     "Math/Unit 1/Secant and Tangent Lines.md",
     "Adam Assignments/10-2024/16We.md",
     "Adam Assignments/10-2024/15Tu.md",
-    "Adam Assignments/09-2024/16Mo.md",
     "Math/Unit 3",
     "Adam Assignments/10-2024",
     "Computer Science/ShapeInter",
