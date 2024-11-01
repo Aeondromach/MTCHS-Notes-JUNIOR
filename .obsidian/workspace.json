@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 3/Derivative of a Logarithm.md",
+                "file": "Math/Unit 3/Chain Rule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Derivative of a Logarithm"
+              "title": "Chain Rule"
             }
           }
         ],
@@ -227,13 +227,13 @@
   },
   "active": "92eaea3a4c20e450",
   "lastOpenFiles": [
+    "Math/Unit 3/Derivative of a Logarithm.md",
     "Math/Unit 3/Limit Definition of Derivative.md",
     "Adam Assignments/11-2024/01Fr.md",
     "Adam Assignments/10-2024/31Th.md",
     "Adam Assignments/11-2024",
     "Math/Unit 3/Chain Rule.md",
     "Math/Unit 3/Expansion on Power Rule.md",
-    "Math/Unit 3/Derivative of a Logarithm.md",
     "Math/Unit 3/Derivative of an Exponential.md",
     "Math/Unit 3/Derivative as a Rate of Change.md",
     "Math/Unit 3/Derivative Rules.md",
