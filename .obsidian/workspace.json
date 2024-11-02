@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 3/Inverse Trig Functions.md",
+                "file": "Adam Assignments/11-2024/02Sa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inverse Trig Functions"
+              "title": "02Sa"
             }
           }
         ],
@@ -225,10 +225,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92eaea3a4c20e450",
+  "active": "10f0a70b1e3f2618",
   "lastOpenFiles": [
-    "Math/Unit 3/Chain Rule.md",
+    "Adam Assignments/11-2024/02Sa.md",
     "Math/Unit 3/Inverse Trig Functions.md",
+    "Math/Unit 3/Chain Rule.md",
     "Math/Unit 3/Derivative of a Logarithm.md",
     "Math/Unit 3/Limit Definition of Derivative.md",
     "Adam Assignments/11-2024/01Fr.md",
@@ -254,7 +255,6 @@
     "Adam Assignments/10-2024/22Tu.md",
     "Adam Assignments/10-2024/21Mo.md",
     "Adam Assignments/10-2024/18Fr.md",
-    "Adam Assignments/10-2024/17Th.md",
     "Math/Unit 3",
     "Adam Assignments/10-2024",
     "Computer Science/ShapeInter",
