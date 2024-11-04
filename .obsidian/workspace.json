@@ -199,12 +199,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/A-Signs.md",
+                "file": "Adam Assignments/11-2024/04Mo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "A-Signs"
+              "title": "04Mo"
             }
           }
         ]
@@ -227,6 +227,8 @@
   },
   "active": "10f0a70b1e3f2618",
   "lastOpenFiles": [
+    "Math/A-Signs.md",
+    "Adam Assignments/11-2024/04Mo.md",
     "Adam Assignments/11-2024/02Sa.md",
     "Math/Unit 3/Inverse Trig Functions.md",
     "Math/Unit 3/Chain Rule.md",
@@ -240,7 +242,6 @@
     "Math/Unit 3/Derivative as a Rate of Change.md",
     "Math/Unit 3/Derivative Rules.md",
     "Math/Unit 3/Derivatives of Trig Functions.md",
-    "Math/A-Signs.md",
     "Math/Unit 2/Intermediate Value Theorem (IVT).md",
     "Math/A-Definitions.md",
     "Adam Assignments/10-2024/30We.md",
@@ -254,7 +255,6 @@
     "Adam Assignments/10-2024/23We.md",
     "Adam Assignments/10-2024/22Tu.md",
     "Adam Assignments/10-2024/21Mo.md",
-    "Adam Assignments/10-2024/18Fr.md",
     "Math/Unit 3",
     "Adam Assignments/10-2024",
     "Computer Science/ShapeInter",
