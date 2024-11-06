@@ -1,6 +1,12 @@
+**Sin**
 $\frac{d}{dx}(sin(x))=cos(x)$
+**Cos**
 $\frac{d}{dx}(cos(x))=-sin(x)$
+**Tan**
 $\frac{d}{dx}(tan(x))=sec^2(x)$
+**Sec**
 $\frac{d}{dx}(sec(x))=sec(x)tan(x)$
+**Csc**
 $\frac{d}{dx}(csc(x))=-csc(x)cot(x)$
+**Cot**
 $\frac{d}{dx}(cot(x))=-csc^2(x)$
