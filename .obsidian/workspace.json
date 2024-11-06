@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 1/Secant and Tangent Lines.md",
-                "mode": "source",
+                "file": "Math/Unit 3/Chain Rule.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secant and Tangent Lines"
+              "title": "Chain Rule"
             }
           },
           {
@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,10 +239,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "651a9224f2237598",
+  "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
-    "Adam Assignments/11-2024/04Mo.md",
+    "Math/Unit 3/Derivatives of Trig Functions.md",
+    "Math/Unit 3/Derivative of an Exponential.md",
+    "Math/Unit 3/Derivative Rules.md",
+    "Math/Unit 2/Limit Laws.md",
+    "Math/Unit 1/Secant and Tangent Lines.md",
     "Adam Assignments/11-2024/06We.md",
+    "Adam Assignments/11-2024/04Mo.md",
     "Math/A-Signs.md",
     "Adam Assignments/11-2024/02Sa.md",
     "Math/Unit 3/Inverse Trig Functions.md",
@@ -253,10 +258,7 @@
     "Adam Assignments/10-2024/31Th.md",
     "Adam Assignments/11-2024",
     "Math/Unit 3/Expansion on Power Rule.md",
-    "Math/Unit 3/Derivative of an Exponential.md",
     "Math/Unit 3/Derivative as a Rate of Change.md",
-    "Math/Unit 3/Derivative Rules.md",
-    "Math/Unit 3/Derivatives of Trig Functions.md",
     "Math/Unit 2/Intermediate Value Theorem (IVT).md",
     "Math/A-Definitions.md",
     "Adam Assignments/10-2024/30We.md",
@@ -267,8 +269,6 @@
     "Adam Assignments/10-2024/25Fr.md",
     "Adam Assignments/10-2024/24Th.md",
     "Math/Unit 3/Derivative as a Function.md",
-    "Adam Assignments/10-2024/23We.md",
-    "Adam Assignments/10-2024/22Tu.md",
     "Math/Unit 3",
     "Adam Assignments/10-2024",
     "Computer Science/ShapeInter",
