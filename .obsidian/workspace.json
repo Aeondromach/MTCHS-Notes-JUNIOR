@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 3/Derivatives of Trig Functions.md",
+                "file": "Math/Unit 3/Derivative of an Exponential.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Derivatives of Trig Functions"
+              "title": "Derivative of an Exponential"
             }
           },
           {
@@ -239,12 +239,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9303406088e32d98",
+  "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
     "Math/Unit 3/Derivative of a Logarithm.md",
+    "Math/Unit 3/Derivatives of Trig Functions.md",
     "Math/Unit 3/Chain Rule.md",
     "Math/Unit 3/Derivative Rules.md",
-    "Math/Unit 3/Derivatives of Trig Functions.md",
     "Math/Unit 3/Derivative as a Rate of Change.md",
     "Math/Unit 3/Derivative as a Function.md",
     "Math/Unit 3/Derivative of an Exponential.md",
