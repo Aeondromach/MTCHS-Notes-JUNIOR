@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/English.md",
+                "file": "Adam Assignments/11-2024/11Mo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "English"
+              "title": "11Mo"
             }
           },
           {
@@ -229,20 +229,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
-    "Adam Assignments/11-2024/08Fr.md",
     "English/English.md",
+    "Adam Assignments/11-2024/11Mo.md",
+    "Adam Assignments/11-2024/08Fr.md",
     "English",
     "Math/Unit 3/Derivatives of Trig Functions.md",
     "Math/Unit 3/Derivative as a Function.md",
@@ -268,7 +269,6 @@
     "Adam Assignments/10-2024/30We.md",
     "Adam Assignments/Extracurricular/Middle School Script.md",
     "Adam Assignments/10-2024/28Mo.md",
-    "Adam Assignments/10-2024/27Su.md",
     "Adam Assignments/Extracurricular",
     "Math/Unit 3",
     "Adam Assignments/10-2024",
