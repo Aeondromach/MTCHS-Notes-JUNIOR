@@ -15,4 +15,10 @@ $V=\frac{1}{3}\pi x^2y$
 $\frac{5}{10}=\frac{x}{y}$
 $\frac{y}{2}=x$
 $V=\frac{1}{3}\pi(\frac{y}{2})^2y$
-$V=\frac{\pi}{3}*\frac{y^2}
+$V=\frac{\pi}{3}*\frac{y^3}{4}$
+$V=\frac{\pi y^3}{12}$
+$\frac{d}{dt}(V)=\frac{d}{dt}(\frac{\pi y^3}{12})$
+$\frac{dV}{dT}=\frac{\pi}{12}*3y^2*\frac{dy}{dt}$
+$\frac{dV}{dt}=\frac{\pi}{4}y^2*\frac{dy}{dt}$
+$\frac{\frac{dV}{dt}}{\frac{\pi y^2}{4}}=\frac{dy}{dt}$
+$\frac{9}{\frac{\pi}}
