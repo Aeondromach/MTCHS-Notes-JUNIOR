@@ -21,4 +21,8 @@ $\frac{d}{dt}(V)=\frac{d}{dt}(\frac{\pi y^3}{12})$
 $\frac{dV}{dT}=\frac{\pi}{12}*3y^2*\frac{dy}{dt}$
 $\frac{dV}{dt}=\frac{\pi}{4}y^2*\frac{dy}{dt}$
 $\frac{\frac{dV}{dt}}{\frac{\pi y^2}{4}}=\frac{dy}{dt}$
-$\frac{9}{\frac{\pi}}
+$\frac{9}{\frac{\pi (6)^2}{4}}=\frac{dy}{dt}$
+$\frac{9}{\frac{36\pi}{4}}=\frac{dy}{dt}$
+$\frac{9}{9\pi}=\frac{dy}{dt}$
+$\frac{1}{\pi}=\frac{dy}{dt}$
+# Tip, look for triangles
