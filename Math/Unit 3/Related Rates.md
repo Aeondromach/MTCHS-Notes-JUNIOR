@@ -5,4 +5,5 @@
 4. Find an equation(s) that relate all variables
 5. Take the derivative with respect to time.
 6. Evaluate.
-#### Example
+#### Examples
+##### Water is filling a conical tank at a rate of 9ft$^3/$min. The tank is inverted such that the base is towards the sky with a height of 10ft and a base radius of 5ft. How fast is the water rising when the water is 6ft deep?

@@ -38,6 +38,18 @@
             }
           },
           {
+            "id": "0ca4e49651e14465",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-12 11.56.14.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-12 11.56.14.excalidraw"
+            }
+          },
+          {
             "id": "92eaea3a4c20e450",
             "type": "leaf",
             "state": {
@@ -66,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,10 +251,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6166ac12f8e3759",
+  "active": "0ca4e49651e14465",
   "lastOpenFiles": [
-    "Adam Assignments/11-2024/12Tu.md",
     "Math/Unit 3/Related Rates.md",
+    "Excalidraw/Drawing 2024-11-12 11.56.14.excalidraw.md",
+    "Excalidraw",
+    "Adam Assignments/11-2024/12Tu.md",
     "Adam Assignments/11-2024/11Mo.md",
     "English/English.md",
     "Adam Assignments/11-2024/08Fr.md",
@@ -268,7 +282,6 @@
     "Math/Unit 3/Expansion on Power Rule.md",
     "Math/Unit 2/Intermediate Value Theorem (IVT).md",
     "Math/A-Definitions.md",
-    "Adam Assignments/10-2024/30We.md",
     "Adam Assignments/Extracurricular",
     "Math/Unit 3",
     "Adam Assignments/10-2024",
