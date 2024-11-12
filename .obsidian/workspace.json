@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adam Assignments/11-2024/11Mo.md",
+                "file": "Math/Unit 3/Related Rates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11Mo"
+              "title": "Related Rates"
             }
           },
           {
@@ -235,13 +235,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
-    "English/English.md",
+    "Adam Assignments/11-2024/12Tu.md",
+    "Math/Unit 3/Related Rates.md",
     "Adam Assignments/11-2024/11Mo.md",
+    "English/English.md",
     "Adam Assignments/11-2024/08Fr.md",
     "English",
     "Math/Unit 3/Derivatives of Trig Functions.md",
@@ -266,8 +269,6 @@
     "Math/Unit 2/Intermediate Value Theorem (IVT).md",
     "Math/A-Definitions.md",
     "Adam Assignments/10-2024/30We.md",
-    "Adam Assignments/Extracurricular/Middle School Script.md",
-    "Adam Assignments/10-2024/28Mo.md",
     "Adam Assignments/Extracurricular",
     "Math/Unit 3",
     "Adam Assignments/10-2024",
