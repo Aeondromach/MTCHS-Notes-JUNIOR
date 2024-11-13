@@ -36,30 +36,6 @@
               "icon": "lucide-file",
               "title": "Related Rates"
             }
-          },
-          {
-            "id": "0ca4e49651e14465",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Related Rates Example 1 Draw 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Related Rates Example 1 Draw 1"
-            }
-          },
-          {
-            "id": "46a15c35e44244eb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Related Rates Example 1 Draw 2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Related Rates Example 1 Draw 2"
-            }
           }
         ],
         "currentTab": 1
@@ -237,8 +213,9 @@
   },
   "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
-    "Excalidraw/Related Rates Example 1 Draw 2.md",
     "Excalidraw/Related Rates Example 1 Draw 1.md",
+    "Adam Assignments/11-2024/13We.md",
+    "Excalidraw/Related Rates Example 1 Draw 2.md",
     "Math/Unit 3/Related Rates.md",
     "Math/Unit 2/Intermediate Value Theorem (IVT).md",
     "Excalidraw",
@@ -265,7 +242,6 @@
     "Adam Assignments/11-2024/01Fr.md",
     "Adam Assignments/10-2024/31Th.md",
     "Adam Assignments/11-2024",
-    "Math/Unit 3/Expansion on Power Rule.md",
     "Adam Assignments/Extracurricular",
     "Math/Unit 3",
     "Adam Assignments/10-2024",
