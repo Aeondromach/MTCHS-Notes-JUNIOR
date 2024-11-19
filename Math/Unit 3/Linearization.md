@@ -21,3 +21,13 @@ $y=f(x)$
 $\frac{d}{dx}(y)=\frac{d}{dx}(f(x))$
 $\frac{dy}{dx}=f^1(x)$
 $dy=f^1(x)dx$
+#### Examples
+##### Find $dy$ when $y=x^5+37x$
+$dy=f^1(x)d(x)$
+$f(x)=x^5+37x$
+$f^1(x)=5x^4+37$
+$dy=(5x^4+37)dx$
+##### Find $dy$ when $y=x^5+37x$ with $x=1$ and $dx=.2$
+$dy=(5x^4+37)dx$
+$dy=(5(1)^4+37)(.2)$
+$dy=8.4$
