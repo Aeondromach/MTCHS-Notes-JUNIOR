@@ -15,3 +15,9 @@ $L(1.1)=\sqrt{2}+\frac{1}{2\sqrt{2}}(1.1-1)$
 $=\sqrt{2}+\frac{.1}{2\sqrt{2}}$
 $=1.4496$
 $f(1.1)=1.4491$
+# Differential
+$dx$ & $dy$ are both differentials.
+$y=f(x)$
+$\frac{d}{dx}(y)=\frac{d}{dx}(f(x))$
+$\frac{dy}{dx}=f^1(x)$
+$dy=f^1(x)dx$
