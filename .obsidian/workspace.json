@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 3/Linearization.md",
+                "file": "Math/Unit 3/Derivatives of Trig Functions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linearization"
+              "title": "Derivatives of Trig Functions"
             }
           },
           {
@@ -239,10 +239,11 @@
   },
   "active": "67d4902b997958c9",
   "lastOpenFiles": [
+    "Math/Unit 3/Derivative of a Logarithm.md",
+    "Math/Unit 3/Linearization.md",
     "Adam Assignments/11-2024/19Tu.md",
     "Adam Assignments/11-2024/18Mo.md",
     "Math/A-Signs.md",
-    "Math/Unit 3/Linearization.md",
     "Excalidraw/Linearization main Picture 1.excalidraw.md",
     "Adam Assignments/11-2024/14Th.md",
     "Math/Unit 3/Related Rates.md",
@@ -260,7 +261,6 @@
     "Math/Unit 3/Derivative as a Function.md",
     "Math/Unit 3/Derivative as a Rate of Change.md",
     "Math/Unit 3/Derivative of an Exponential.md",
-    "Math/Unit 3/Derivative of a Logarithm.md",
     "Math/Unit 3/Chain Rule.md",
     "Math/Unit 3/Derivative Rules.md",
     "Math/Unit 2/Limit Laws.md",
