@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 3/Linearization.md",
+                "file": "Math/Unit 3/Related Rates.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linearization"
+              "title": "Related Rates"
             }
           },
           {
@@ -239,9 +239,9 @@
   },
   "active": "67d4902b997958c9",
   "lastOpenFiles": [
+    "Math/Unit 3/Linearization.md",
     "Math/Unit 3/Limit Definition of Derivative.md",
     "Math/Unit 3/Related Rates.md",
-    "Math/Unit 3/Linearization.md",
     "Math/Unit 3/Inverse Trig Functions.md",
     "Math/A-Signs.md",
     "Math/Unit 2/One Sided Limits.md",
