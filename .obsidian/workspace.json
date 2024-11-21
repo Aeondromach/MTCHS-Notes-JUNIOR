@@ -233,14 +233,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "67d4902b997958c9",
   "lastOpenFiles": [
+    "Adam Assignments/11-2024/20We.md",
     "Adam Assignments/11-2024/21Th.md",
     "Math/Unit 3/Derivatives of Trig Functions.md",
-    "Adam Assignments/11-2024/20We.md",
     "Math/Unit 3/Derivative of a Logarithm.md",
     "Math/Unit 3/Linearization.md",
     "Adam Assignments/11-2024/19Tu.md",
