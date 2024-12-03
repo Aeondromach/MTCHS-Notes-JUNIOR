@@ -4,7 +4,7 @@ $p(t)$
 # Velocity
 $p^1(t)=v(t)$
 # Acceleration
-$p^{2}(t)=v^1(t)=a(t)$
+$p^{2}(t)=v^1(t)=a(t)$    $v(t)=45$
 # Jerk
 $p^{3}(t)=v^2(t)=a^1(t)=j(t)$
 #### Example
