@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 1/Secant and Tangent Lines.md",
+                "file": "Math/Unit 3/Derivative as a Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Secant and Tangent Lines"
+              "title": "Derivative as a Function"
             }
           },
           {
@@ -239,7 +239,15 @@
   },
   "active": "67d4902b997958c9",
   "lastOpenFiles": [
+    "Math/Unit 3/Chain Rule.md",
+    "Math/Unit 2/One Sided Limits.md",
+    "Math/Unit 2/Limits at infinity.md",
+    "Math/Unit 2/Limit Laws.md",
+    "Math/Unit 2/Intermediate Value Theorem (IVT).md",
+    "Math/Unit 2/Continuity.md",
     "Math/Unit 1/Inversing a Function.md",
+    "Math/Unit 2/2.5c.md",
+    "Math/Unit 1/Secant and Tangent Lines.md",
     "Math/Unit 1/1.1 practice questions.md",
     "Adam Assignments/12-2024/16Mo.md",
     "Adam Assignments/12-2024/10Tu.md",
@@ -255,20 +263,12 @@
     "Math/Unit 3/Limit Definition of Derivative.md",
     "Math/Unit 3/Linearization.md",
     "Math/Unit 3/Related Rates.md",
-    "Math/Unit 3/Chain Rule.md",
     "Math/Unit 3/Derivative as a Function.md",
     "Adam Assignments/12-2024/02Mo.md",
     "Adam Assignments/12-2024",
-    "Excalidraw/Linearization main Picture 1.excalidraw.md",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",
-    "Excalidraw/Related Rates Example 1 Draw 2.md",
     "Excalidraw/Related Rates Example 1 Draw 2.png",
-    "Excalidraw/Related Rates Example 1 Draw 1.md",
     "Excalidraw/Related Rates Example 1 Draw 1.png",
-    "Math/A-Signs.md",
-    "Math/Unit 2/One Sided Limits.md",
-    "Adam Assignments/11-2024/21Th.md",
-    "Adam Assignments/11-2024/20We.md",
     "Excalidraw",
     "English",
     "Adam Assignments/11-2024",
