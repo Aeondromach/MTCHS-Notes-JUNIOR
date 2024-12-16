@@ -15,3 +15,5 @@ $\frac{d}{dx}[f(x)+g(x)]=f^1(x)+g^1(x)$
 $\frac{d}{dx}[f(x)-g(x)]=f^1(x)-g^1(x)$
 # Product Rule
 $\frac{d}{dx}[f(x)g(x)]=f(x)g^1(x) + g(x)f^1(x)$
+# Product Rule
+$\frac{d}{dx}[\frac{f(X)}{g(x)}]=\frac{g(x)f^1(x)-f(x)g^1(x)}{g(x)^2}$
