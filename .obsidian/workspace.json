@@ -43,12 +43,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 3/Derivative of an Exponential.md",
+                "file": "Math/Unit 3/Derivative Rules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Derivative of an Exponential"
+              "title": "Derivative Rules"
             }
           },
           {
@@ -239,6 +239,9 @@
   },
   "active": "67d4902b997958c9",
   "lastOpenFiles": [
+    "Math/Unit 3/Derivatives of Trig Functions.md",
+    "Math/Unit 3/Derivative Rules.md",
+    "Math/Unit 3/Derivative of an Exponential.md",
     "Math/Unit 3/Derivative of a Logarithm.md",
     "Math/Unit 3/Derivative as a Rate of Change.md",
     "Math/Unit 2/Limit Laws.md",
@@ -256,9 +259,6 @@
     "Adam Assignments/12-2024/10Tu.md",
     "Adam Assignments/12-2024/04We.md",
     "Adam Assignments/12-2024/03Tu.md",
-    "Math/Unit 3/Derivative of an Exponential.md",
-    "Math/Unit 3/Derivative Rules.md",
-    "Math/Unit 3/Derivatives of Trig Functions.md",
     "Math/Unit 3/Expansion on Power Rule.md",
     "Math/Unit 3/Inverse Trig Functions.md",
     "Math/Unit 3/Limit Definition of Derivative.md",
