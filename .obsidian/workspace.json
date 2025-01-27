@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "b7352fb29fb6d361",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/EVT Example 0 Picture 3.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "EVT Example 0 Picture 3"
+            }
+          },
+          {
             "id": "84081dfaab19e529",
             "type": "leaf",
             "state": {
@@ -45,8 +57,7 @@
               "title": "Linearization main Picture 1.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "3c12d31c25b11f68",
@@ -230,8 +241,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "84081dfaab19e529",
+  "active": "9303406088e32d98",
   "lastOpenFiles": [
+    "Excalidraw/EVT Example 0 Picture 3.md",
     "Math/Unit 4/EVT.md",
     "Excalidraw/EVT Example 0 Picture 2.md",
     "Math/A-Signs.md",
@@ -259,7 +271,6 @@
     "Math/Unit 2/One Sided Limits.md",
     "Math/Unit 2/Limits at infinity.md",
     "Math/Unit 2/Intermediate Value Theorem (IVT).md",
-    "Math/Unit 2/Continuity.md",
     "Adam Assignments/12-2024",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",
     "Excalidraw/Related Rates Example 1 Draw 2.png",

@@ -27,3 +27,5 @@ $f(x)=x^2$
 **Local max**: The value at a point $c$ in the domain $D$ if $f(x)\leq c$ for all $x$ in $D$.
 $\forall a \in D$
 **Local Min**: The value at some point $c$ in the domain $D$ if $f(x)\geq f(c)$ $\forall x \in D$ lying in some open interval containing $c$.
+![[EVT Example 0 Picture 2]]
+![[EVT Example 0 Picture 3]]
