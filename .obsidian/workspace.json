@@ -8,22 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12e0ac3a0a5eca92",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adam Assignments/09-2024/16Mo.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "16Mo"
-            }
-          },
-          {
             "id": "f6166ac12f8e3759",
             "type": "leaf",
             "state": {
@@ -38,20 +22,6 @@
             }
           },
           {
-            "id": "67d4902b997958c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Unit 3/Expansion on Power Rule.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Expansion on Power Rule"
-            }
-          },
-          {
             "id": "ada286f90f2493d2",
             "type": "leaf",
             "state": {
@@ -63,8 +33,7 @@
               "title": "Linearization main Picture 1.excalidraw"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,17 +202,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "67d4902b997958c9",
+  "active": "914da87d9a5e806b",
   "lastOpenFiles": [
+    "Math/Unit 4",
+    "Adam Assignments/01-2025/27Mo.md",
+    "Math/Unit 3/Expansion on Power Rule.md",
+    "Adam Assignments/01-2025",
     "Math/Unit 3/Inverse Trig Functions.md",
     "Math/Unit 3/Derivatives of Trig Functions.md",
     "Math/Unit 3/Limit Definition of Derivative.md",
     "Math/Unit 3/Linearization.md",
     "Math/Unit 3/Related Rates.md",
-    "Math/Unit 3/Expansion on Power Rule.md",
     "Math/Unit 3/Derivative of an Exponential.md",
     "Math/Unit 3/Derivative Rules.md",
     "Math/Unit 3/Derivative of a Logarithm.md",
@@ -262,8 +235,6 @@
     "Adam Assignments/12-2024/16Mo.md",
     "Adam Assignments/12-2024/10Tu.md",
     "Adam Assignments/12-2024/04We.md",
-    "Adam Assignments/12-2024/03Tu.md",
-    "Adam Assignments/12-2024/02Mo.md",
     "Adam Assignments/12-2024",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",
     "Excalidraw/Related Rates Example 1 Draw 2.png",
@@ -275,7 +246,6 @@
     "Math/Unit 3",
     "Adam Assignments/10-2024",
     "Computer Science/ShapeInter",
-    "Math/Unit 2",
-    "Computer Science/Wrestling"
+    "Math/Unit 2"
   ]
 }
