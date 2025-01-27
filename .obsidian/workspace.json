@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 3/Linearization.md",
+                "file": "Math/Unit 4/EVT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linearization"
+              "title": "EVT"
             }
           },
           {
@@ -206,8 +206,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "914da87d9a5e806b",
+  "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
+    "Math/Unit 3/Linearization.md",
+    "Math/Unit 4/EVT.md",
     "Math/Unit 4",
     "Adam Assignments/01-2025/27Mo.md",
     "Math/Unit 3/Expansion on Power Rule.md",
@@ -215,7 +217,6 @@
     "Math/Unit 3/Inverse Trig Functions.md",
     "Math/Unit 3/Derivatives of Trig Functions.md",
     "Math/Unit 3/Limit Definition of Derivative.md",
-    "Math/Unit 3/Linearization.md",
     "Math/Unit 3/Related Rates.md",
     "Math/Unit 3/Derivative of an Exponential.md",
     "Math/Unit 3/Derivative Rules.md",
@@ -245,7 +246,6 @@
     "Adam Assignments/Extracurricular",
     "Math/Unit 3",
     "Adam Assignments/10-2024",
-    "Computer Science/ShapeInter",
-    "Math/Unit 2"
+    "Computer Science/ShapeInter"
   ]
 }
