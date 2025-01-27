@@ -24,4 +24,6 @@ $f(x)=x^2$
 |       $(0,2)$       |     min: 0      | ![[EVT Example 1 Picture 3]] |
 |                     | max: $\nexists$ |                              |
 ## Local Extrema
-Local max: The value at a point $c$ in the domain $D$ if ==$f(x)\leq c$== for all $x$ in $D$.
+**Local max**: The value at a point $c$ in the domain $D$ if $f(x)\leq c$ for all $x$ in $D$.
+$\forall a \in D$
+**Local Min**: The value at some point $c$ in the domain $D$ if $f(x)\geq f(c)$ $\forall x \in D$ lying in some open interval containing $c$.
