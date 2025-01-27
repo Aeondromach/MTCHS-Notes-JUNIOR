@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "ebdf1298115194ae",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-27 12.14.32.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-27 12.14.32.excalidraw"
-            }
-          },
-          {
             "id": "ada286f90f2493d2",
             "type": "leaf",
             "state": {
@@ -45,8 +33,7 @@
               "title": "Linearization main Picture 1.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,11 +217,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebdf1298115194ae",
+  "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
-    "Excalidraw/EVT Example 0 Picture 1.md",
-    "Excalidraw/Drawing 2025-01-27 12.14.32.excalidraw.md",
+    "Excalidraw/EVT Example 1 Picture 1.md",
     "Math/Unit 4/EVT.md",
+    "Excalidraw/EVT Example 1 Picture 3.md",
+    "Excalidraw/EVT Example 1 Picture 2.md",
+    "Excalidraw/EVT Example 0 Picture 1.md",
     "Math/A-Signs.md",
     "README.md",
     "Math/Unit 3/Linearization.md",
@@ -258,8 +247,6 @@
     "Math/Unit 2/Intermediate Value Theorem (IVT).md",
     "Math/Unit 2/Continuity.md",
     "Math/Unit 1/Inversing a Function.md",
-    "Math/Unit 2/2.5c.md",
-    "Math/Unit 1/Secant and Tangent Lines.md",
     "Adam Assignments/12-2024",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",
     "Excalidraw/Related Rates Example 1 Draw 2.png",
