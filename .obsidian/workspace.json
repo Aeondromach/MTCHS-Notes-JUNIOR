@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "9a84b1cf4001adbe",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/EVT Example 0 Picture 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "EVT Example 0 Picture 1"
+            }
+          },
+          {
             "id": "ada286f90f2493d2",
             "type": "leaf",
             "state": {
@@ -208,8 +220,9 @@
   },
   "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
-    "Math/Unit 3/Linearization.md",
+    "Excalidraw/EVT Example 0 Picture 1.md",
     "Math/Unit 4/EVT.md",
+    "Math/Unit 3/Linearization.md",
     "Math/Unit 4",
     "Adam Assignments/01-2025/27Mo.md",
     "Math/Unit 3/Expansion on Power Rule.md",
@@ -235,7 +248,6 @@
     "Math/Unit 1/1.1 practice questions.md",
     "Adam Assignments/12-2024/16Mo.md",
     "Adam Assignments/12-2024/10Tu.md",
-    "Adam Assignments/12-2024/04We.md",
     "Adam Assignments/12-2024",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",
     "Excalidraw/Related Rates Example 1 Draw 2.png",
