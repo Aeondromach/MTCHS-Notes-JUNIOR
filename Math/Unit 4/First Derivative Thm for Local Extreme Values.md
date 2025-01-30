@@ -20,3 +20,4 @@ Find the absolute max and min of $f(x)=x^2$ on $[-2,1]$.
 	Abs min is $f(0)=0$.
 	The Abs min occurs at $x=0$ and has a value of 0.
 	Abs max is at $x=-2$ and has a value of 4.
+	![[First Derivative THM example 1 picture 1]]
