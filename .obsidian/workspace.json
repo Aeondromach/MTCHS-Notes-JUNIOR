@@ -25,12 +25,14 @@
             "id": "02ba8cd791e0a356",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-30 11.44.55.excalidraw.md"
+                "file": "Math/Unit 4/First Derivative Thm for Local Extreme Values.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-30 11.44.55.excalidraw"
+              "icon": "lucide-file",
+              "title": "First Derivative Thm for Local Extreme Values"
             }
           },
           {
@@ -256,8 +258,8 @@
   },
   "active": "02ba8cd791e0a356",
   "lastOpenFiles": [
+    "Excalidraw/First Derivative THM example 0 Picture 1.md",
     "Math/Unit 4/First Derivative Thm for Local Extreme Values.md",
-    "Excalidraw/Drawing 2025-01-30 11.44.55.excalidraw.md",
     "Adam Assignments/01-2025/30Th.md",
     "Adam Assignments/01-2025/27Mo.md",
     "Math/Unit 4/EVT.md",
