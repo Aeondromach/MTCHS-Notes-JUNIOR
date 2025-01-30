@@ -9,4 +9,14 @@ An interior point on the domain of $f$ where $f^1$ is undefined or zero.
 #### Example
 Find the absolute max and min of $f(x)=x^2$ on $[-2,1]$.
 	End points: -2, 1
-	$
+	$f^1(x)=2x$
+	$2x=0$
+	$x=0$ - **Critical Point**
+	---
+	$f(-2)=(-2)^2=4$
+	$f(0)=0^2=0$
+	$f(1)=1^2=1$
+	---
+	Abs min is $f(0)=0$.
+	The Abs min occurs at $x=0$ and has a value of 0.
+	Abs max is at $x=-2$ and has a value of 4.
