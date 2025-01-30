@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adam Assignments/01-2025/30Th.md",
+                "file": "Math/Unit 4/First Derivative Thm for Local Extreme Values.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30Th"
+              "title": "First Derivative Thm for Local Extreme Values"
+            }
+          },
+          {
+            "id": "02ba8cd791e0a356",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-30 11.44.55.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-30 11.44.55.excalidraw"
             }
           },
           {
@@ -57,7 +69,8 @@
               "title": "Linearization main Picture 1.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,10 +254,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6166ac12f8e3759",
+  "active": "02ba8cd791e0a356",
   "lastOpenFiles": [
-    "Adam Assignments/01-2025/27Mo.md",
+    "Math/Unit 4/First Derivative Thm for Local Extreme Values.md",
+    "Excalidraw/Drawing 2025-01-30 11.44.55.excalidraw.md",
     "Adam Assignments/01-2025/30Th.md",
+    "Adam Assignments/01-2025/27Mo.md",
     "Math/Unit 4/EVT.md",
     "Excalidraw/EVT Example 0 Picture 3.md",
     "Excalidraw/EVT Example 0 Picture 2.md",
@@ -269,8 +284,6 @@
     "Math/Unit 2/Limit Laws.md",
     "Math/Unit 3/Derivative as a Function.md",
     "Math/Unit 3/Chain Rule.md",
-    "Math/Unit 2/One Sided Limits.md",
-    "Math/Unit 2/Limits at infinity.md",
     "Adam Assignments/12-2024",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",
     "Excalidraw/Related Rates Example 1 Draw 2.png",
