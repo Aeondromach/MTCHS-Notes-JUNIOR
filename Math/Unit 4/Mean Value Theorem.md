@@ -10,4 +10,10 @@ $$f^1(c)=\frac{f(b)-f(a)}{b-a}$$
 ![[Mean Value Theorem Example 0 Picture 2]]
 #### Example
 Find the value(s) $c$ such that $\frac{f(b)-f(a)}{b-1}=f^1(c)$ on $[0,3]$ for $f(x)=3x^2$.
-	$f^1(c)=\frac{3(3)^2-3(0)^2}{3-0}
+	$f^1(c)=\frac{3(3)^2-3(0)^2}{3-0}$
+	$f^1(c)=\frac{27}{3}=9$
+	$f(x)=3x^2$ -> $f^1(x)=6x$
+	$f^1(c)=6c=9$
+	$6c=9$
+	$c=\frac{9}{6}$
+	$c=\frac{3}{2}$
