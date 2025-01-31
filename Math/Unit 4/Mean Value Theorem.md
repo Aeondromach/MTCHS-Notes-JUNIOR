@@ -7,3 +7,7 @@ If $f(x)$ is continuous over the closed interval $[a,b]$ and differentiable at e
 ## Mean Value Thm. (MVT)
 Suppose $f(x)$ id contininuous on$[a,b]$ and differentiable on $(a,b)$. Then there is at least one point $c$ in $(a,b)$ where:
 $$f^1(c)=\frac{f(b)-f(a)}{b-a}$$
+![[Mean Value Theorem Example 0 Picture 2]]
+#### Example
+Find the value(s) $c$ such that $\frac{f(b)-f(a)}{b-1}=f^1(c)$ on $[0,3]$ for $f(x)=3x^2$.
+	$f^1(c)=\frac{3(3)^2-3(0)^2}{3-0}

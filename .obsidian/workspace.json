@@ -27,10 +27,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-01-31 11.54.55.excalidraw.md"
+                "file": "Excalidraw/Mean Value Theorem Example 0 Picture 2.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-31 11.54.55.excalidraw"
+              "title": "Mean Value Theorem Example 0 Picture 2"
             }
           },
           {
@@ -81,8 +81,7 @@
               "title": "Linearization main Picture 1.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,11 +266,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c95d1702e7569da2",
+  "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
-    "Math/Unit 4/Mean Value Theorem.md",
-    "Excalidraw/Drawing 2025-01-31 11.54.55.excalidraw.md",
+    "Excalidraw/Mean Value Theorem Example 0 Picture 2.md",
     "Excalidraw/Mean Value Theorem Example 0 Picture 1.md",
+    "Math/Unit 4/Mean Value Theorem.md",
     "Math/Unit 4/First Derivative Thm for Local Extreme Values.md",
     "Math/Unit 4/EVT.md",
     "Adam Assignments/01-2025/31Fr.md",
