@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "c95d1702e7569da2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-01-31 11.54.55.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-01-31 11.54.55.excalidraw"
+            }
+          },
+          {
             "id": "d2b8ae0ab97661f7",
             "type": "leaf",
             "state": {
@@ -69,7 +81,8 @@
               "title": "Linearization main Picture 1.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,10 +267,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6166ac12f8e3759",
+  "active": "c95d1702e7569da2",
   "lastOpenFiles": [
-    "Excalidraw/Mean Value Theorem Example 0 Picture 1.md",
     "Math/Unit 4/Mean Value Theorem.md",
+    "Excalidraw/Drawing 2025-01-31 11.54.55.excalidraw.md",
+    "Excalidraw/Mean Value Theorem Example 0 Picture 1.md",
     "Math/Unit 4/First Derivative Thm for Local Extreme Values.md",
     "Math/Unit 4/EVT.md",
     "Adam Assignments/01-2025/31Fr.md",
@@ -283,7 +297,6 @@
     "Math/Unit 3/Related Rates.md",
     "Math/Unit 3/Derivative of an Exponential.md",
     "Math/Unit 3/Derivative Rules.md",
-    "Math/Unit 3/Derivative of a Logarithm.md",
     "Adam Assignments/12-2024",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",
     "Excalidraw/Related Rates Example 1 Draw 2.png",
