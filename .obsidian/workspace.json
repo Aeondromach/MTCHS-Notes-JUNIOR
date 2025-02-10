@@ -11,12 +11,14 @@
             "id": "f6166ac12f8e3759",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/First Derivative THM example 0 Picture 1.md"
+                "file": "Math/Unit 4/Concavity.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "First Derivative THM example 0 Picture 1"
+              "icon": "lucide-file",
+              "title": "Concavity"
             }
           },
           {
@@ -266,6 +268,9 @@
   },
   "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
+    "Excalidraw/First Derivative THM example 0 Picture 1.md",
+    "Math/Unit 4/Concavity.md",
+    "Adam Assignments/02-2025/10Mo.md",
     "Excalidraw/First Derivative THM example 1 picture 1.md",
     "Excalidraw/Linearization main Picture 1.excalidraw.md",
     "Excalidraw/EVT Example 1 Picture 2.md",
@@ -281,7 +286,6 @@
     "Math/Unit 4/First Derivative Thm for Local Extreme Values.md",
     "Math/Unit 4/EVT.md",
     "Adam Assignments/01-2025/31Fr.md",
-    "Excalidraw/First Derivative THM example 0 Picture 1.md",
     "Adam Assignments/01-2025/30Th.md",
     "Adam Assignments/01-2025/27Mo.md",
     "Math/A-Signs.md",
@@ -293,8 +297,6 @@
     "Adam Assignments/01-2025",
     "Math/Unit 3/Inverse Trig Functions.md",
     "Math/Unit 3/Derivatives of Trig Functions.md",
-    "Math/Unit 3/Limit Definition of Derivative.md",
-    "Math/Unit 3/Related Rates.md",
     "Adam Assignments/12-2024",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",
     "Excalidraw/Related Rates Example 1 Draw 2.png",
