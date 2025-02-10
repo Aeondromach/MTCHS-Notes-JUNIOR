@@ -9,11 +9,11 @@ Let $f(x)$ be a twice differentiable function on the interval $I$.
 When $f^{11}(x)=0$ or $\nexists$, this is an inflection point. $f(x)$ changes concavity.
 #### Example
 Find the intervals of concave up and down for $f(x)=x^3$ and $g(x)=x^2$
-	$f^1(x)=3x^2$
-	$f^{11}(x)=6x$
-	inflection
-	$6x=0$
-	$x=0$
+> $f^1(x)=3x^2$
+> $f^{11}(x)=6x$
+> inflection
+> $6x=0$
+> $x=0$
 
 |                       |      $x<0$      |     $x>0$     |
 |:---------------------:|:---------------:|:-------------:|

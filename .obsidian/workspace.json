@@ -13,75 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 4/Concavity.md",
+                "file": "Math/Unit 4/Second Derivative Test for Extrema.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concavity"
+              "title": "Second Derivative Test for Extrema"
             }
           },
           {
-            "id": "c95d1702e7569da2",
+            "id": "4d9e1421e38f2a2b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Mean Value Theorem Example 0 Picture 2.md"
+                "file": "Excalidraw/Drawing 2025-02-10 12.18.21.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Mean Value Theorem Example 0 Picture 2"
-            }
-          },
-          {
-            "id": "d2b8ae0ab97661f7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/First Derivative THM example 1 picture 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "First Derivative THM example 1 picture 1"
-            }
-          },
-          {
-            "id": "b7352fb29fb6d361",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/EVT Example 0 Picture 3.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "EVT Example 0 Picture 3"
-            }
-          },
-          {
-            "id": "84081dfaab19e529",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/EVT Example 0 Picture 2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "EVT Example 0 Picture 2"
-            }
-          },
-          {
-            "id": "ada286f90f2493d2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Linearization main Picture 1.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Linearization main Picture 1.excalidraw"
+              "title": "Drawing 2025-02-10 12.18.21.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,10 +219,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6166ac12f8e3759",
+  "active": "4d9e1421e38f2a2b",
   "lastOpenFiles": [
-    "Excalidraw/First Derivative THM example 0 Picture 1.md",
+    "Math/Unit 4/Second Derivative Test for Extrema.md",
+    "Excalidraw/Drawing 2025-02-10 12.18.21.excalidraw.md",
     "Math/Unit 4/Concavity.md",
+    "Excalidraw/First Derivative THM example 0 Picture 1.md",
     "Adam Assignments/02-2025/10Mo.md",
     "Excalidraw/First Derivative THM example 1 picture 1.md",
     "Excalidraw/Linearization main Picture 1.excalidraw.md",
@@ -295,8 +250,6 @@
     "Math/Unit 4",
     "Math/Unit 3/Expansion on Power Rule.md",
     "Adam Assignments/01-2025",
-    "Math/Unit 3/Inverse Trig Functions.md",
-    "Math/Unit 3/Derivatives of Trig Functions.md",
     "Adam Assignments/12-2024",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",
     "Excalidraw/Related Rates Example 1 Draw 2.png",
