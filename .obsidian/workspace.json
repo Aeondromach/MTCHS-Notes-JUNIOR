@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Second Derivative Test for Extrema"
             }
-          },
-          {
-            "id": "4d9e1421e38f2a2b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-02-10 12.18.21.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-10 12.18.21.excalidraw"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,10 +206,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4d9e1421e38f2a2b",
+  "active": "f6166ac12f8e3759",
   "lastOpenFiles": [
-    "Math/Unit 4/Second Derivative Test for Extrema.md",
     "Excalidraw/Drawing 2025-02-10 12.18.21.excalidraw.md",
+    "Math/Unit 4/Second Derivative Test for Extrema.md",
     "Math/Unit 4/Concavity.md",
     "Excalidraw/First Derivative THM example 0 Picture 1.md",
     "Adam Assignments/02-2025/10Mo.md",
