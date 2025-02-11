@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Graphing using derivatives"
             }
+          },
+          {
+            "id": "db222a45c14bbf06",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-11 12.10.15.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-11 12.10.15.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,10 +219,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6166ac12f8e3759",
+  "active": "db222a45c14bbf06",
   "lastOpenFiles": [
-    "Math/Unit 4/Concavity.md",
     "Math/Unit 4/Graphing using derivatives.md",
+    "Excalidraw/Drawing 2025-02-11 12.10.15.excalidraw.md",
+    "Math/Unit 4/Concavity.md",
     "Excalidraw/Related Rates Example 1 Draw 2.md",
     "Adam Assignments/02-2025/11Tu.md",
     "Math/Unit 4/Second Derivative Test for Extrema.md",
@@ -234,7 +248,6 @@
     "Adam Assignments/01-2025/30Th.md",
     "Adam Assignments/01-2025/27Mo.md",
     "Math/A-Signs.md",
-    "Excalidraw/EVT Example 1 Picture 3.md",
     "Math/Unit 4",
     "Adam Assignments/01-2025",
     "Adam Assignments/12-2024",
