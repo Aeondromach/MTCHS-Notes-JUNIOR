@@ -27,14 +27,13 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-11 12.10.15.excalidraw.md"
+                "file": "Excalidraw/Graphing using derivatives Example 1 Picture 1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-11 12.10.15.excalidraw"
+              "title": "Graphing using derivatives Example 1 Picture 1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "3c12d31c25b11f68",
@@ -219,10 +218,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db222a45c14bbf06",
+  "active": "9303406088e32d98",
   "lastOpenFiles": [
+    "Excalidraw/Graphing using derivatives Example 1 Picture 1.md",
     "Math/Unit 4/Graphing using derivatives.md",
-    "Excalidraw/Drawing 2025-02-11 12.10.15.excalidraw.md",
     "Math/Unit 4/Concavity.md",
     "Excalidraw/Related Rates Example 1 Draw 2.md",
     "Adam Assignments/02-2025/11Tu.md",

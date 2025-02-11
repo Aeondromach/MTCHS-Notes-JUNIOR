@@ -24,4 +24,4 @@ $\frac{(x+1)^2}{1+x^2}=f(x)$
 | -----------------------:|:---------------:|:---------------:|:---------------:|:-------------:|
 |     Sign of<br>$f^1(x)$ |       $-$       |       $+$       |       $-$       |      $+$      |
 | Behavior<br>of $f^1(x)$ | concave<br>down |  concave<br>up  | concave<br>down | concave<br>up |
-
+![[Graphing using derivatives Example 1 Picture 1]]
