@@ -18,4 +18,10 @@ $\lim\limits_{x\rightarrow \infty}\frac{1/x}{1/\sqrt{x}}=\lim\limits_{x\rightarr
 #### Example
 Evaluate $\lim\limits_{x\rightarrow}\frac{e^x}{x^2}=\frac{\infty}{\infty}$
 > $\lim\limits_{x\rightarrow}\frac{e^x}{2x}=\frac{\infty}{\infty}$
-> $\lim\limits_{x\rightarrow\infty}\frac{e^x}{2}
+> $\lim\limits_{x\rightarrow\infty}\frac{e^x}{2}=\frac{\infty}{x}=\infty$
+## Indeterminate Power
+$1^\infty$, $0^0$, $\infty^0$, etc.
+> If $\lim\limits_{x\rightarrow a}\ln(f(x))=L$ then
+> $\lim\limits_{x\rightarrow a}f(x)=\lim\limits_{x\rightarrow a}e^{\ln(f(x))}=e^L$
+#### Example'
+Evaluate $\lim\limits_{x\rightarrow0}(1+x)^{\frac{1}{x}}=1^\infty$
