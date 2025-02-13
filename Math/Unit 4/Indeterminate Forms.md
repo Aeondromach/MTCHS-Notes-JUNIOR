@@ -25,3 +25,7 @@ $1^\infty$, $0^0$, $\infty^0$, etc.
 > $\lim\limits_{x\rightarrow a}f(x)=\lim\limits_{x\rightarrow a}e^{\ln(f(x))}=e^L$
 #### Example'
 Evaluate $\lim\limits_{x\rightarrow0}(1+x)^{\frac{1}{x}}=1^\infty$
+> $\lim\limits_{x\rightarrow 0^+}(1+x)^{\frac{1}{x}}$
+> $\lim\limits_{0\rightarrow0^+}\ln((1+x)^{\frac{1}{x}})$
+> $\lim\limits_{0\rightarrow0^+}\frac{1}{x}(\ln{(1+x)})$
+> $\lim\limits_{0\rightarrow0^+}\frac{\ln{(1+x)}}{x}=\frac{0}{0}$
