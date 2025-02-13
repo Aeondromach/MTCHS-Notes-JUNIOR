@@ -23,7 +23,7 @@ Evaluate $\lim\limits_{x\rightarrow}\frac{e^x}{x^2}=\frac{\infty}{\infty}$
 $1^\infty$, $0^0$, $\infty^0$, etc.
 > If $\lim\limits_{x\rightarrow a}\ln(f(x))=L$ then
 > $\lim\limits_{x\rightarrow a}f(x)=\lim\limits_{x\rightarrow a}e^{\ln(f(x))}=e^L$
-#### Example'
+#### Example
 Evaluate $\lim\limits_{x\rightarrow0}(1+x)^{\frac{1}{x}}=1^\infty$
 > $\lim\limits_{x\rightarrow 0^+}(1+x)^{\frac{1}{x}}$
 > $\lim\limits_{0\rightarrow0^+}\ln((1+x)^{\frac{1}{x}})$
