@@ -6,3 +6,5 @@ $$\lim\limits_{x\rightarrow a}\frac{f(x)}{g(x)}=\lim\limits_{x\rightarrow a}\fra
 Evaluate $\lim\limits_{x\rightarrow 0}\frac{3x-\sin{x}}{x}$
 > $\lim\limits_{x\rightarrow 0}\frac{3x-\sin{x}}{x}=\frac{0}{0}$
 > $\lim\limits_{x\rightarrow 0}\frac{3x-\sin{x}}{x}=\lim\limits_{x\rightarrow 0}\frac{3-\cos{x}}{1}=2$
+## L'Hôpital's for $\frac{\infty}{\infty}$
+$\lim\limits_{x\rightarrow a}\frac{f(x)}{g(x)}=\lim\limits_{x\rightarrow a}\frac{f^1(x)}{g^1(x)}$
