@@ -13,4 +13,9 @@ $\lim\limits_{x\rightarrow \frac{\pi}{2}}\frac{\sec{x}}{1+\tan{x}}=\frac{\infty}
 > $\lim\limits_{x\rightarrow \frac{\pi}{2}}\frac{\sec{x}\tan{x}}{\sec^2{x}}=\lim\limits_{x\rightarrow \frac{\pi}{2}^-}\frac{\tan{x}}{\sec{x}}=\sin{x}=\sin{\frac{\pi}{2}}=1$
 > $\lim\limits_{x\rightarrow \frac{\pi}{2}}\frac{\sec{x}}{\tan{x}}=1$
 #### Example
-$\lim\limits_{x\rightarrow \infty}\frac{\frac{1}{x}}{\frac{1}{\sqrt{x}}=\lim\limits_{x\rightarrow \infty}\frac{\sqrt{x}}{x}$
+$\lim\limits_{x\rightarrow \infty}\frac{1/x}{1/\sqrt{x}}=\lim\limits_{x\rightarrow \infty}\frac{\sqrt{x}}{x}$
+> $\lim\limits_{x\rightarrow \infty}\frac{x}{x\sqrt{x}}=\lim\limits_{x\rightarrow\infty}\frac{1}{\sqrt{x}}=0$
+#### Example
+Evaluate $\lim\limits_{x\rightarrow}\frac{e^x}{x^2}=\frac{\infty}{\infty}$
+> $\lim\limits_{x\rightarrow}\frac{e^x}{2x}=\frac{\infty}{\infty}$
+> $\lim\limits_{x\rightarrow\infty}\frac{e^x}{2}
