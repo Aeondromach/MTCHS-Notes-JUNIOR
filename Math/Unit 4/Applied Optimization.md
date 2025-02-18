@@ -12,7 +12,11 @@ Find the dimensions of a cylindrical can that uses the least material.
 	Equations:
 	- SA of cylinder $=2\pi r^2+2\pi rh$
 	- Vol of cylinder $=\pi r^2h$
-2. Picture:
-	![[Applied Optimization Example 1 Picture 1]]
+2. Picture:![[Applied Optimization Example 1 Picture 1]]
 3. Introduce Variables
 	- Label all known and unknown variables
+4. Write an equation relating to variables
+	- $V=\pi r^2h=1000$
+	- $A= 
+5. Find the crit values and endpoints of optimization function.
+	- 
