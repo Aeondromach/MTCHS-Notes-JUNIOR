@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "b1976647c2150914",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Applied Optimization Example 1 Picture 1.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Applied Optimization Example 1 Picture 1"
+            }
+          },
+          {
             "id": "db222a45c14bbf06",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               "title": "Graphing using derivatives Example 1 Picture 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,10 +231,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f6166ac12f8e3759",
+  "active": "b1976647c2150914",
   "lastOpenFiles": [
-    "Math/Unit 4/Indeterminate Forms.md",
     "Math/Unit 4/Applied Optimization.md",
+    "Excalidraw/Applied Optimization Example 1 Picture 1.md",
+    "Math/Unit 4/Indeterminate Forms.md",
     "Adam Assignments/02-2025/14Fr.md",
     "Math/Unit 4/Graphing using derivatives.md",
     "Math/Unit 4/Second Derivative Test for Extrema.md",
@@ -245,7 +259,6 @@
     "Excalidraw/EVT Example 0 Picture 3.md",
     "Excalidraw/EVT Example 0 Picture 1.md",
     "Excalidraw/EVT Example 0 Picture 2.md",
-    "Adam Assignments/02-2025/06Th.md",
     "Adam Assignments/02-2025",
     "Math/Unit 4",
     "Adam Assignments/01-2025",
