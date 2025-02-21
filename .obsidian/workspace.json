@@ -25,12 +25,14 @@
             "id": "494d40fcf3c3b72d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.7"
+                "file": "Math/Unit 4/Indeterminate Forms.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.7"
+              "icon": "lucide-file",
+              "title": "Indeterminate Forms"
             }
           },
           {
@@ -239,19 +241,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "494d40fcf3c3b72d",
   "lastOpenFiles": [
-    "Excalidraw/Applied Optimization Example 1 Picture 1.md",
+    "Math/Unit 4/Mean Value Theorem.md",
+    "Math/Unit 4/Second Derivative Test for Extrema.md",
     "Math/Unit 4/Applied Optimization.md",
+    "Math/Unit 4/Graphing using derivatives.md",
+    "Math/Unit 4/First Derivative Thm for Local Extreme Values.md",
+    "Adam Assignments/02-2025/21Fr.md",
+    "Excalidraw/Applied Optimization Example 1 Picture 1.md",
     "Math/Unit 4/Indeterminate Forms.md",
     "Adam Assignments/02-2025/14Fr.md",
-    "Math/Unit 4/Graphing using derivatives.md",
-    "Math/Unit 4/Second Derivative Test for Extrema.md",
-    "Math/Unit 4/Mean Value Theorem.md",
-    "Math/Unit 4/First Derivative Thm for Local Extreme Values.md",
     "Math/Unit 4/EVT.md",
     "Math/Unit 4/Concavity.md",
     "Math/A-Signs.md",
@@ -269,7 +273,6 @@
     "Excalidraw/EVT Example 1 Picture 1.md",
     "Excalidraw/EVT Example 0 Picture 3.md",
     "Excalidraw/EVT Example 0 Picture 1.md",
-    "Excalidraw/EVT Example 0 Picture 2.md",
     "Adam Assignments/02-2025",
     "Math/Unit 4",
     "Adam Assignments/01-2025",
