@@ -23,5 +23,6 @@ Upper, Lower, and midpoint approximations for $f(x)=1-x^L$ using 4 rectangles(su
 > $\sum^{4}_{i=1} f(x_i^*)*\Delta x=\Delta x\sum^{4}_{i=1} f(x_i^*)$
 > $=\frac{1}{4}(1+\frac{15}{16}+\frac{3}{4}+\frac{7}{16})$
 > $=\frac{25}{32}$ Upper
-> **Lower Approximation**
+> **Lower Approximation**![[Integration Example 0 picture 6]]
+> **Midpoint Approximation** ![[Integration Example 0 picture 7]]
 > 
