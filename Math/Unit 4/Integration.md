@@ -3,3 +3,6 @@
 Given the continuous function $f(x)$ on the interval $[a,b]$, the area under $f(x)$ can be approximated by using $n$ rectangles:
 $$A = \sum^{h}_{i=1} f(x_i^*)\Delta x$$
 $$\Delta x=\frac{b-a}{n}$$
+![[Integration Example 1 Picture 1]]
+Area of the ith rectangle is $f(x_i)*\Delta x$
+## The 3 most common approximations
