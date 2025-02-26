@@ -6,3 +6,11 @@ $$\Delta x=\frac{b-a}{n}$$
 ![[Integration Example 1 Picture 1]]
 Area of the ith rectangle is $f(x_i)*\Delta x$
 ## The 3 most common approximations
+- Upper Sum
+	- Using left endpoints of rectangles![[Integration Example 0 picture 2]]
+- Lower Sum
+	- Using right endpoints of rectangles![[Integration Example 0 picture 3]]
+- Midpoint sum
+	- Use midpoints of rectangle![[Integration Example 0 picture 4]]
+#### Example
+Upper, Lower, and midpoint approximations for $f(x)=1-x^L$ using 4 rectangles
