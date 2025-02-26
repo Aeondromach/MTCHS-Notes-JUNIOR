@@ -13,4 +13,11 @@ Area of the ith rectangle is $f(x_i)*\Delta x$
 - Midpoint sum
 	- Use midpoints of rectangle![[Integration Example 0 picture 4]]
 #### Example
-Upper, Lower, and midpoint approximations for $f(x)=1-x^L$ using 4 rectangles
+Upper, Lower, and midpoint approximations for $f(x)=1-x^L$ using 4 rectangles(sub-intervals) on $[0,1]$
+> $\Delta x=\frac{1-0}{4}=\frac{1}{4}$
+> **Upper Approximation** ![[Integration Example 0 picture 5]]
+> $f(x_1)=1-(0)^2=1$
+> $f(x_2)=1-(\frac{1}{4})^2=\frac{15}{16}$
+> $f(x_3)=1-(\frac{1}{2})^2=\frac{3}{4}$
+> $f(x_4)=1-(\frac{3}{4})^2=\frac{7}{16}$
+> $A = \sum^{h}_{i=1} f(x_i^*)\Delta x$
