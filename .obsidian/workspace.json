@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 3/Limit Definition of Derivative.md",
+                "file": "Math/Unit 4/Integration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Limit Definition of Derivative"
+              "title": "Integration"
+            }
+          },
+          {
+            "id": "3c8043498118f806",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-02-26 12.01.03.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-02-26 12.01.03.excalidraw"
             }
           },
           {
@@ -249,17 +261,21 @@
   },
   "active": "494d40fcf3c3b72d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-02-26 12.01.03.excalidraw.md",
+    "Math/Unit 3/Derivative of a Logarithm.md",
+    "Excalidraw/Graphing using derivatives Example 1 Picture 1.md",
+    "Math/Unit 4/Integration.md",
+    "Adam Assignments/02-2025/26We.md",
+    "Math/Unit 3/Limit Definition of Derivative.md",
     "Math/Unit 3/Inverse Trig Functions.md",
     "Math/Unit 3/Expansion on Power Rule.md",
     "Math/Unit 3/Derivatives of Trig Functions.md",
     "Math/Unit 3/Derivative as a Function.md",
     "Math/Unit 3/Derivative Rules.md",
     "Math/Unit 3/Derivative of an Exponential.md",
-    "Math/Unit 3/Derivative of a Logarithm.md",
     "Math/Unit 3/Derivative as a Rate of Change.md",
     "Math/Unit 3/Related Rates.md",
     "Math/Unit 3/Linearization.md",
-    "Math/Unit 3/Limit Definition of Derivative.md",
     "Math/Unit 3/Chain Rule.md",
     "Adam Assignments/02-2025/21Fr.md",
     "Math/Unit 4/Applied Optimization.md",
@@ -271,10 +287,6 @@
     "Math/Unit 4/First Derivative Thm for Local Extreme Values.md",
     "Adam Assignments/02-2025/14Fr.md",
     "Math/Unit 4/EVT.md",
-    "Math/Unit 4/Concavity.md",
-    "Math/A-Signs.md",
-    "Adam Assignments/02-2025/13Th.md",
-    "Excalidraw/Graphing using derivatives Example 1 Picture 1.md",
     "Adam Assignments/02-2025",
     "Math/Unit 4",
     "Adam Assignments/01-2025",
