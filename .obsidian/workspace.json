@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adam Assignments/02-2025/27Th.md",
+                "file": "Math/Unit 5/Sigma-Summation Notation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27Th"
+              "title": "Sigma-Summation Notation"
             }
           },
           {
@@ -258,8 +258,10 @@
   },
   "active": "fb355505e46ae653",
   "lastOpenFiles": [
-    "Math/Unit 4/Integration.md",
+    "Math/Unit 5/Integration.md",
+    "Math/Unit 5/Sigma-Summation Notation.md",
     "Adam Assignments/02-2025/27Th.md",
+    "Math/Unit 5",
     "Excalidraw/Integration Example 0 picture 7.md",
     "Excalidraw/Integration Example 0 picture 6.md",
     "Excalidraw/Integration Example 0 picture 5.md",
@@ -284,7 +286,6 @@
     "Math/Unit 3/Related Rates.md",
     "Math/Unit 3/Linearization.md",
     "Math/Unit 3/Chain Rule.md",
-    "Adam Assignments/02-2025/21Fr.md",
     "Adam Assignments/02-2025",
     "Math/Unit 4",
     "Adam Assignments/01-2025",
@@ -295,7 +296,6 @@
     "English",
     "Adam Assignments/11-2024",
     "Adam Assignments/Extracurricular",
-    "Math/Unit 3",
-    "Adam Assignments/10-2024"
+    "Math/Unit 3"
   ]
 }
