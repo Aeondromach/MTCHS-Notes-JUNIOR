@@ -12,4 +12,9 @@ $$\int^{b}_{a}f(x)dx=\lim\limits_{n \rightarrow \infty}\sum^{n}_{k=1}f(a+k\frac{
 > - Integrals represent accumulated change
 > - Integrals are the area under a curve
 ## Integrability of continuous functions
-If $f$ is continuous on the inveral 
+If $f$ is continuous on $[a,b]$, or if $f$ has a finite number of jump discontinuities, then $\int^{b}_{a}f(x)$ exists and $f$ is integrable on $[a,b]$.
+
+---
+If $f(x)$ and $g(x)$ are integrable on $[a,b]$:
+1. $$\int^{b}_{a}f(x)dx=-\int^{a}_{b}f(x)dx$$
+2. $\int^{a}_{b}
