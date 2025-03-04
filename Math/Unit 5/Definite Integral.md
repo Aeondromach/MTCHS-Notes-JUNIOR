@@ -23,3 +23,7 @@ If $f(x)$ and $g(x)$ are integrable on $[a,b]$:
 5. $$\int^{b}_{a}f(x)dx+\int^{c}_{b}f(x)dx=\int^{c}_{a}f(x)dx$$
 ## Area under the curve
 The area below $y=f(x)$ on $[a,b]$ is $A=\int^{b}_{a}f(x)dx$
+### Basic Definite Integrals
+1. $$\int^b_axdx=\frac{b^2}{2}-\frac{a^2}{2}$$
+2. $$\int^b_ax^2dx=\frac{b^3}{3}-\frac{a^3}{3}$$
+3. $$\int^b_a$$
