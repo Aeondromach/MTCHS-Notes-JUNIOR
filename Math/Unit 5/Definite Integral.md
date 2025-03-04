@@ -17,4 +17,6 @@ If $f$ is continuous on $[a,b]$, or if $f$ has a finite number of jump discontin
 ---
 If $f(x)$ and $g(x)$ are integrable on $[a,b]$:
 1. $$\int^{b}_{a}f(x)dx=-\int^{a}_{b}f(x)dx$$
-2. $\int^{a}_{b}
+2. $$\int^{a}_{a}f(x)dz=0$$
+3. Where $k$ is a constant$$\int^{b}_{a}k*f(x)dx=k\int^{b}_{a}f(x)dx$$
+4. $$\int^{b}_{a}(f(x)\pm g(x))dx=\int^{b}_{a}f(x)dx\pm$$
