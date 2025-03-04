@@ -19,4 +19,7 @@ If $f(x)$ and $g(x)$ are integrable on $[a,b]$:
 1. $$\int^{b}_{a}f(x)dx=-\int^{a}_{b}f(x)dx$$
 2. $$\int^{a}_{a}f(x)dz=0$$
 3. Where $k$ is a constant$$\int^{b}_{a}k*f(x)dx=k\int^{b}_{a}f(x)dx$$
-4. $$\int^{b}_{a}(f(x)\pm g(x))dx=\int^{b}_{a}f(x)dx\pm$$
+4. $$\int^{b}_{a}(f(x)\pm g(x))dx=\int^{b}_{a}f(x)dx\pm\int^{b}_{a}g(x)dx$$
+5. $$\int^{b}_{a}f(x)dx+\int^{c}_{b}f(x)dx=\int^{c}_{a}f(x)dx$$
+#### Example
+$$\int^{1}_{-1}f(x)dx=5,~$$
