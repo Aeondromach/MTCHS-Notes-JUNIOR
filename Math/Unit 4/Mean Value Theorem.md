@@ -23,4 +23,7 @@ $\bar{x}$ = mean
 #### Example
 Given $f(x)=3x+2, find the average value on $[1,3]\rightarrow[a,b]$
 > $$\bar{x}=\frac{1}{3-1}\int^{3}_{1}3x+2dx$$
-> $$=\frac{1}{2}
+> $$=\frac{1}{2}(\int^{3}_{1}3xdx+\int^{3}_{1}2dx)$$
+> $$=\frac{1}{2}(3\int^{3}_{1}xdx+\int^{3}_{1}2dx$$
+> $$\frac{1}{2}(3(\frac{3^2}{2}-\frac{1^2}{2})+2(3-1))$$
+> $$
