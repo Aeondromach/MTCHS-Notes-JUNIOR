@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 5/Definite Integral.md",
+                "file": "Math/Unit 4/Mean Value Theorem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definite Integral"
+              "title": "Mean Value Theorem"
             }
           },
           {
@@ -264,14 +264,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "fb355505e46ae653",
   "lastOpenFiles": [
+    "Adam Assignments/03-2025/10Mo.md",
+    "Math/Unit 5/Definite Integral.md",
     "Math/Unit 5/Integration.md",
     "Math/Unit 5/Sigma-Summation Notation.md",
-    "Math/Unit 5/Definite Integral.md",
     "Adam Assignments/03-2025/07Fr.md",
     "Excalidraw/Definite Integral Example 0 Picture 1.md",
     "Adam Assignments/03-2025/04Tu.md",
@@ -297,7 +299,6 @@
     "Math/Unit 3/Derivatives of Trig Functions.md",
     "Math/Unit 3/Derivative as a Function.md",
     "Math/Unit 3/Derivative Rules.md",
-    "Math/Unit 3/Derivative of an Exponential.md",
     "Adam Assignments/02-2025",
     "Math/Unit 4",
     "Adam Assignments/01-2025",
