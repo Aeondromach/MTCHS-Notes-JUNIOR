@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 5/Definite Integral.md",
+                "file": "Math/Unit 5/Fundamental Theorem of Calculus (FTC).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Definite Integral"
+              "title": "Fundamental Theorem of Calculus (FTC)"
             }
           },
           {
@@ -268,13 +268,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "914da87d9a5e806b",
+  "active": "fb355505e46ae653",
   "lastOpenFiles": [
+    "Math/Unit 5/Definite Integral.md",
+    "Math/Unit 5/Fundamental Theorem of Calculus (FTC).md",
     "Math/Unit 5/Integration.md",
     "Adam Assignments/03-2025/11Tu.md",
     "Math/Unit 5/Mean Value Theorem.md",
     "Adam Assignments/03-2025/10Mo.md",
-    "Math/Unit 5/Definite Integral.md",
     "Math/Unit 5/Sigma-Summation Notation.md",
     "Adam Assignments/03-2025/07Fr.md",
     "Excalidraw/Definite Integral Example 0 Picture 1.md",
@@ -298,7 +299,6 @@
     "Math/Unit 3/Limit Definition of Derivative.md",
     "Math/Unit 3/Inverse Trig Functions.md",
     "Math/Unit 3/Expansion on Power Rule.md",
-    "Math/Unit 3/Derivatives of Trig Functions.md",
     "Adam Assignments/02-2025",
     "Math/Unit 4",
     "Adam Assignments/01-2025",
