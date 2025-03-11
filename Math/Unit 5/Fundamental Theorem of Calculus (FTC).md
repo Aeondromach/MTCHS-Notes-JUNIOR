@@ -14,3 +14,9 @@ $\int^{\pi}_{0}cos(x)dx$
 > $$\int^{\pi}_{0}cos(x)dx=sin(x)|^\pi_0$$
 > $$sin(x)|^\pi_0=sin(\pi)-sin(0)=0-0=0$$
 > $$\int^\pi_0cos(x)dx=0$$
+#### Example
+$\int^4_1\frac{3}{2}\sqrt{x}-\frac{4}{x^2}dx$
+> $$\int^4_1\frac{3}{2}\sqrt{x}dx-\int^4_1\frac{4}{x^2}dx=$$
+> $$\int^4_1\frac{3}{2}x^\frac{1}{2}dx-\int^4_14x^{-2}dx=$$
+> $$f(x)=\frac{3}{2}x^\frac{1}{2}~||~f(x)=4x^{-2}$$
+> $$F(x)=x^\frac{3}{2}~||~F(x)=-4x^{-1}$$
