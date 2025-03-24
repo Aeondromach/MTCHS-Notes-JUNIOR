@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 5/Fundamental Theorem of Calculus (FTC).md",
+                "file": "Math/Unit 5/Substitution Rule (u-sub).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamental Theorem of Calculus (FTC)"
+              "title": "Substitution Rule (u-sub)"
             }
           },
           {
@@ -264,13 +264,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "fb355505e46ae653",
   "lastOpenFiles": [
-    "Math/Unit 5/Definite Integral.md",
+    "Adam Assignments/03-2025/24Mo.md",
+    "Math/Unit 5/Substitution Rule (u-sub).md",
     "Math/Unit 5/Fundamental Theorem of Calculus (FTC).md",
+    "Math/Unit 5/Definite Integral.md",
     "Math/Unit 5/Integration.md",
     "Adam Assignments/03-2025/11Tu.md",
     "Math/Unit 5/Mean Value Theorem.md",
@@ -296,8 +299,6 @@
     "Excalidraw/Graphing using derivatives Example 1 Picture 1.md",
     "Adam Assignments/02-2025/26We.md",
     "Math/Unit 3/Limit Definition of Derivative.md",
-    "Math/Unit 3/Inverse Trig Functions.md",
-    "Math/Unit 3/Expansion on Power Rule.md",
     "Adam Assignments/02-2025",
     "Math/Unit 4",
     "Adam Assignments/01-2025",
