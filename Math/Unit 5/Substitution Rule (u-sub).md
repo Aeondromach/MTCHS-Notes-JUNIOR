@@ -22,4 +22,9 @@ $\int \sqrt{2x+1}~dx$
 > $\frac{1}{3}(2x+1)^\frac{3}{2}+c$
 #### Example
 $\int x\sqrt{2x+1}~dx$
-> Let $u=2
+> Let $u=2x+1 \rightarrow \frac{u-1}{2}=x$
+> $du=2dx$
+> $\frac{1}{2}du=dx$
+> $\int x\sqrt{u}(\frac{1}{2})du$
+> $\int \frac{1}{2}(u-1)\sqrt{u}(\frac{1}{2})du$
+> 
