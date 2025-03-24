@@ -20,3 +20,6 @@ $\int \sqrt{2x+1}~dx$
 > $\frac{1}{2}(\frac{2}{3}u^\frac{3}{2})+c=$
 > $\frac{1}{3}u^\frac{3}{2}+c=$
 > $\frac{1}{3}(2x+1)^\frac{3}{2}+c$
+#### Example
+$\int x\sqrt{2x+1}~dx$
+> Let $u=2
