@@ -27,4 +27,4 @@ $\int x\sqrt{2x+1}~dx$
 > $\frac{1}{2}du=dx$
 > $\int x\sqrt{u}(\frac{1}{2})du$
 > $\int \frac{1}{2}(u-1)\sqrt{u}(\frac{1}{2})du$
-> 
+> $\frac{1}{4}\int(u-1)\sqrt{u}du=$
