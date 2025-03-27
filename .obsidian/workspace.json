@@ -61,8 +61,7 @@
               "title": "Related Rates"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,10 +246,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e9567c7e0b32bcfb",
+  "active": "fb355505e46ae653",
   "lastOpenFiles": [
-    "Math/Unit 5/Symmetric Functions.md",
     "Excalidraw/Symmetric Functions Example 0 Picture 1.md",
+    "Math/Unit 5/Symmetric Functions.md",
     "Math/Unit 5/Definite Integral Substitution.md",
     "Math/Unit 5/Fundamental Theorem of Calculus (FTC).md",
     "Math/Unit 5/Integration.md",
