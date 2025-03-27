@@ -22,65 +22,17 @@
             }
           },
           {
-            "id": "138f6ccb2618aa20",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Definite Integral Example 0 Picture 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Definite Integral Example 0 Picture 1"
-            }
-          },
-          {
-            "id": "6474e44b56cb23c0",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Integration Example 0 picture 7.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Integration Example 0 picture 7"
-            }
-          },
-          {
-            "id": "3c8043498118f806",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Integration Example 1 Picture 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Integration Example 1 Picture 1"
-            }
-          },
-          {
-            "id": "b1976647c2150914",
+            "id": "625c12227e84681a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Unit 3/Derivative of a Logarithm.md",
+                "file": "Math/Unit 3/Related Rates.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Derivative of a Logarithm"
-            }
-          },
-          {
-            "id": "db222a45c14bbf06",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Graphing using derivatives Example 1 Picture 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Graphing using derivatives Example 1 Picture 1"
+              "title": "Related Rates"
             }
           }
         ]
@@ -270,34 +222,34 @@
   },
   "active": "fb355505e46ae653",
   "lastOpenFiles": [
-    "Math/Unit 5/Definite Integral.md",
-    "Math/Unit 5/Definite Integral Substitution.md",
-    "Math/Unit 5/Common Trig Integrals.md",
-    "Math/Unit 5/Z - Homework Questions.md",
-    "Adam Assignments/03-2025/27Th.md",
-    "Math/Unit 5/Substitution Rule (u-sub).md",
-    "Math/Unit 1/Secant and Tangent Lines.md",
-    "Math/Unit 1/Inversing a Function.md",
+    "Math/Unit 3/Related Rates.md",
+    "Math/Unit 3/Linearization.md",
+    "Math/Unit 3/Limit Definition of Derivative.md",
     "Math/Unit 3/Inverse Trig Functions.md",
-    "Math/Unit 5/Integration.md",
-    "Adam Assignments/03-2025/26We.md",
-    "Adam Assignments/03-2025/25Tu.md",
-    "Adam Assignments/03-2025/24Mo.md",
-    "Math/Unit 5/Fundamental Theorem of Calculus (FTC).md",
-    "Adam Assignments/03-2025/11Tu.md",
-    "Math/Unit 5/Mean Value Theorem.md",
-    "Adam Assignments/03-2025/10Mo.md",
-    "Math/Unit 5/Sigma-Summation Notation.md",
-    "Adam Assignments/03-2025/07Fr.md",
-    "Excalidraw/Definite Integral Example 0 Picture 1.md",
-    "Adam Assignments/03-2025/04Tu.md",
+    "Math/Unit 3/Expansion on Power Rule.md",
+    "Math/Unit 3/Derivatives of Trig Functions.md",
+    "Math/Unit 3/Derivative Rules.md",
+    "Math/Unit 3/Derivative of an Exponential.md",
+    "Math/Unit 3/Derivative of a Logarithm.md",
+    "Math/Unit 3/Derivative as a Rate of Change.md",
+    "Math/Unit 3/Derivative as a Function.md",
+    "Math/Unit 3/Chain Rule.md",
+    "Math/Unit 4/EVT.md",
+    "Math/Unit 4/Applied Optimization.md",
+    "Math/Unit 4/Second Derivative Test for Extrema.md",
+    "Math/Unit 4/Indeterminate Forms.md",
+    "Math/Unit 4/Graphing using derivatives.md",
+    "Math/Unit 4/First Derivative Thm for Local Extreme Values.md",
+    "Math/Unit 4/Concavity.md",
+    "Math/Unit 2/One Sided Limits.md",
+    "Math/Unit 2/Limits at infinity.md",
+    "Math/Unit 2/Limit Laws.md",
+    "Math/Unit 2/Intermediate Value Theorem (IVT).md",
+    "Math/Unit 2/Continuity.md",
+    "Math/Unit 5/Definite Integral Substitution.md",
+    "Math/Unit 5/Definite Integral.md",
     "Adam Assignments/03-2025",
-    "Adam Assignments/02-2025/27Th.md",
     "Math/Unit 5",
-    "Excalidraw/Integration Example 0 picture 7.md",
-    "Excalidraw/Integration Example 0 picture 6.md",
-    "Excalidraw/Integration Example 0 picture 5.md",
-    "Excalidraw/Integration Example 0 picture 4.md",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",
     "Adam Assignments/02-2025",
     "Math/Unit 4",
