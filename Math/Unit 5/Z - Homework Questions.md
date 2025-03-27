@@ -8,5 +8,5 @@ $$\int\frac{1}{1+e^x}dx$$
 > $u=1+e^x$
 > $du=e^xdx$
 > $$\int 1dx-\int\frac{1}{u}du$$
-> $$x-\ln{|u|}+c$$
-> $$$$
+> $x-\ln{|u|}+c$
+> $x-\ln{|1+e^x|}+c$

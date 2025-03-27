@@ -1,0 +1,1 @@
+If $g^1$ is continuous on $[a,b]$ and $f$ is continuous on the range of $g(x)$
