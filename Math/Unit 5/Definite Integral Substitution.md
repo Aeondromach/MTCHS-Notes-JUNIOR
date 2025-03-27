@@ -11,4 +11,9 @@ Evaluate $\int^{1}_{-1}3x^2\sqrt{x^3+1}dx$
 2. $$\frac{2}{3}u^{\frac{3}{2}}|^{2}_{0}=$$$$\frac{2}{3}(x^3+1)^{\frac{3}{2}}|^{1}_{-1}=$$$$\frac{2}{3}((1)^3)+1)^{\frac{3}{2}}-\frac{2}{3}((-1)^3+1)^{\frac{3}{2}}=$$$$\frac{2}{3}(2)^{\frac{3}{2}}-\frac{2}{3}(0)^{\frac{3}{2}}=$$$$\frac{2}{3}(\sqrt{8})=$$$$\frac{2}{3}2\sqrt{2}=$$$$=\frac{4\sqrt{2}}{3}$$
 #### Example
 Evaluate $\int^{\frac{\pi}{2}}_{\frac{\pi}{4}}\cot{(\theta)}\csc{^2(\theta)}d\theta$
-> Let $u=\cot{()}
+> Let $u=\cot{(\theta)}=g(x)$             $g(\frac{\pi}{4})=\cot{(\frac{\pi}{4})}=1$
+> $du= -\csc{^2(\theta)}d\theta$                    $g(\frac{\pi}{2})=\cot{(\frac{\pi}{2})}=0$
+> $\int^{0}_{1}-udu=$
+> $-\int^{1}_{0}-udu=$
+> $\int^{1}
+> 
