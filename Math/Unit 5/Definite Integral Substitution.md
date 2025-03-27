@@ -15,5 +15,8 @@ Evaluate $\int^{\frac{\pi}{2}}_{\frac{\pi}{4}}\cot{(\theta)}\csc{^2(\theta)}d\th
 > $du= -\csc{^2(\theta)}d\theta$                    $g(\frac{\pi}{2})=\cot{(\frac{\pi}{2})}=0$
 > $\int^{0}_{1}-udu=$
 > $-\int^{1}_{0}-udu=$
-> $\int^{1}
+> $\int^{1}_{0}udu=$
+> $\frac{u^2}{2}|^{1}_{0}=$
+> $\frac{1^2}{2}-\frac{0^2}{2}=$
+> $\frac{1}{2}$
 > 
