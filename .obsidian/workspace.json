@@ -85,8 +85,7 @@
               "title": "Related Rates"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,10 +270,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29ff0c635f2a31f6",
+  "active": "fb355505e46ae653",
   "lastOpenFiles": [
-    "Math/Unit 5/Area Between Curves.md",
     "Excalidraw/Area between curve Example 1 Picture 1.md",
+    "Math/Unit 5/Area Between Curves.md",
     "Excalidraw/Area between Curves Example 0 Picture 1.md",
     "Adam Assignments/03-2025/31Mo.md",
     "Math/Unit 5/Symmetric Functions.md",
