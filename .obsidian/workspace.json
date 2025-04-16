@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adam Assignments/04-2025/16We.md",
+                "file": "Math/Unit 6/Disks and Washers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16We"
+              "title": "Disks and Washers"
+            }
+          },
+          {
+            "id": "eb80b9853f454473",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Disks and Washers Example 0 Picture 1.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Disks and Washers Example 0 Picture 1.excalidraw"
             }
           },
           {
@@ -284,8 +296,11 @@
   },
   "active": "fb355505e46ae653",
   "lastOpenFiles": [
-    "Adam Assignments/04-2025/10Th.md",
+    "Excalidraw/Disks and Washers Example 0 Picture 1.excalidraw.md",
+    "Math/Unit 6/Disks and Washers.md",
     "Adam Assignments/04-2025/16We.md",
+    "Math/Unit 6",
+    "Adam Assignments/04-2025/10Th.md",
     "Math/Unit 5/Area Between Curves.md",
     "Math/Unit 5/Substitution Rule (u-sub).md",
     "Adam Assignments/04-2025/04Fr.md",
@@ -309,8 +324,6 @@
     "Math/Unit 3/Inverse Trig Functions.md",
     "Math/Unit 3/Expansion on Power Rule.md",
     "Math/Unit 3/Derivatives of Trig Functions.md",
-    "Math/Unit 3/Derivative Rules.md",
-    "Math/Unit 3/Derivative of an Exponential.md",
     "Adam Assignments/03-2025",
     "Math/Unit 5",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",
@@ -321,7 +334,6 @@
     "Excalidraw/Related Rates Example 1 Draw 2.png",
     "Excalidraw/Related Rates Example 1 Draw 1.png",
     "Excalidraw",
-    "English",
-    "Adam Assignments/11-2024"
+    "English"
   ]
 }
