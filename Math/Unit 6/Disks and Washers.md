@@ -13,3 +13,5 @@ A pyramid $3m$ high has a square base that is $3m$ on a side. the cross section 
 > $$V=\int^3_0x^2dx$$$$V=\frac{x^3}{3}|^3_0=\frac{3^3}{3}-\frac{0^3}{3}=9m^3$$
 #### Example
 A curved wedge is cut from a cylinder of radius 3 by two planes. One plane is perpendicular to the axis of the cylinder. The second plane crosses the first plane at $45\degree$ angle to the center of the cylinder. Find the volume of the wedge.
+> ![[Disks and Washers Example 2 Picture 1.excalidraw]]
+> Eq. of Circle: $x^2+y^
