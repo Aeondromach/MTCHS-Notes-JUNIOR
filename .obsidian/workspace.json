@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "e76c4db22bf352e4",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-16 12.03.20.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-16 12.03.20.excalidraw"
+            }
+          },
+          {
             "id": "eb80b9853f454473",
             "type": "leaf",
             "state": {
@@ -109,7 +121,8 @@
               "title": "Related Rates"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -294,10 +307,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb355505e46ae653",
+  "active": "e76c4db22bf352e4",
   "lastOpenFiles": [
-    "Excalidraw/Disks and Washers Example 0 Picture 1.excalidraw.md",
     "Math/Unit 6/Disks and Washers.md",
+    "Excalidraw/Drawing 2025-04-16 12.03.20.excalidraw.md",
+    "Excalidraw/Disks and Washers Example 0 Picture 1.excalidraw.md",
     "Adam Assignments/04-2025/16We.md",
     "Math/Unit 6",
     "Adam Assignments/04-2025/10Th.md",
@@ -323,7 +337,6 @@
     "Math/Unit 3/Limit Definition of Derivative.md",
     "Math/Unit 3/Inverse Trig Functions.md",
     "Math/Unit 3/Expansion on Power Rule.md",
-    "Math/Unit 3/Derivatives of Trig Functions.md",
     "Adam Assignments/03-2025",
     "Math/Unit 5",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",

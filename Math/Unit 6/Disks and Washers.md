@@ -9,3 +9,4 @@ $$\int^b_aA(x)dx$$
 4. Integrate $A(x)$ to find volume.
 #### Example
 A pyramid $3m$ high has a square base that is $3m$ on a side. the cross section of the pyramid perpendicular to the altitude $xm$ down from the vertex is a square $xm$ on a side. Find the volume of the pyramid.
+> 
