@@ -22,27 +22,15 @@
             }
           },
           {
-            "id": "e76c4db22bf352e4",
+            "id": "efc5c8f8cbd1832a",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Disks and Washers Example 1 Picture 1.excalidraw.md"
+                "file": "Excalidraw/Disks and Washers Example 2 Picture 1.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Disks and Washers Example 1 Picture 1.excalidraw"
-            }
-          },
-          {
-            "id": "eb80b9853f454473",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Disks and Washers Example 0 Picture 1.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Disks and Washers Example 0 Picture 1.excalidraw"
+              "title": "Disks and Washers Example 2 Picture 1.excalidraw"
             }
           },
           {
@@ -121,7 +109,8 @@
               "title": "Related Rates"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -306,10 +295,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb355505e46ae653",
+  "active": "efc5c8f8cbd1832a",
   "lastOpenFiles": [
-    "Excalidraw/Disks and Washers Example 1 Picture 1.excalidraw.md",
     "Math/Unit 6/Disks and Washers.md",
+    "Excalidraw/Disks and Washers Example 2 Picture 1.excalidraw.md",
+    "Excalidraw/Disks and Washers Example 1 Picture 1.excalidraw.md",
     "Excalidraw/Disks and Washers Example 0 Picture 1.excalidraw.md",
     "Adam Assignments/04-2025/16We.md",
     "Math/Unit 6",
@@ -335,7 +325,6 @@
     "Math/Unit 3/Linearization.md",
     "Math/Unit 3/Limit Definition of Derivative.md",
     "Math/Unit 3/Inverse Trig Functions.md",
-    "Math/Unit 3/Expansion on Power Rule.md",
     "Adam Assignments/03-2025",
     "Math/Unit 5",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",
