@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adam Assignments/04-2025/16We.md",
+                "file": "Physics/Light Slogo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16We"
+              "title": "Light Slogo"
             }
           },
           {
@@ -290,16 +290,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "fb355505e46ae653",
   "lastOpenFiles": [
+    "Adam Assignments/04-2025/16We.md",
+    "Physics/Light Slogo.md",
     "Math/Unit 6/Disks and Washers.md",
     "Excalidraw/Disks and Washers Example 2 Picture 1.excalidraw.md",
     "Excalidraw/Disks and Washers Example 1 Picture 1.excalidraw.md",
     "Excalidraw/Disks and Washers Example 0 Picture 1.excalidraw.md",
-    "Adam Assignments/04-2025/16We.md",
     "Math/Unit 6",
     "Adam Assignments/04-2025/10Th.md",
     "Math/Unit 5/Area Between Curves.md",
@@ -322,7 +324,6 @@
     "Math/Unit 3/Related Rates.md",
     "Math/Unit 3/Linearization.md",
     "Math/Unit 3/Limit Definition of Derivative.md",
-    "Math/Unit 3/Inverse Trig Functions.md",
     "Adam Assignments/03-2025",
     "Math/Unit 5",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",
