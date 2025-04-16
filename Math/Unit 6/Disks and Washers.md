@@ -14,4 +14,6 @@ A pyramid $3m$ high has a square base that is $3m$ on a side. the cross section 
 #### Example
 A curved wedge is cut from a cylinder of radius 3 by two planes. One plane is perpendicular to the axis of the cylinder. The second plane crosses the first plane at $45\degree$ angle to the center of the cylinder. Find the volume of the wedge.
 > ![[Disks and Washers Example 2 Picture 1.excalidraw]]
-> Eq. of Circle: $x^2+y^
+> Eq. of Circle: $x^2+y^2=r^2$
+> $x^2+y^2=3^2$
+> $y=~^\pm\sqrt{9-x^2}$

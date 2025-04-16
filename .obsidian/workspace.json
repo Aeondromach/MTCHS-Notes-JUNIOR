@@ -109,7 +109,8 @@
               "title": "Related Rates"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -294,10 +295,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb355505e46ae653",
+  "active": "efc5c8f8cbd1832a",
   "lastOpenFiles": [
-    "Excalidraw/Disks and Washers Example 2 Picture 1.excalidraw.md",
     "Math/Unit 6/Disks and Washers.md",
+    "Excalidraw/Disks and Washers Example 2 Picture 1.excalidraw.md",
     "Excalidraw/Disks and Washers Example 1 Picture 1.excalidraw.md",
     "Excalidraw/Disks and Washers Example 0 Picture 1.excalidraw.md",
     "Adam Assignments/04-2025/16We.md",
