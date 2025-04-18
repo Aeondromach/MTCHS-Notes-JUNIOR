@@ -22,107 +22,18 @@
             }
           },
           {
-            "id": "578c40737600126d",
+            "id": "95169331474a06d9",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-18 11.49.06.excalidraw.md"
+                "file": "Excalidraw/Solids of revolution example 0 picture 3.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-18 11.49.06.excalidraw"
-            }
-          },
-          {
-            "id": "efc5c8f8cbd1832a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Disks and Washers Example 2 Picture 1.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Disks and Washers Example 2 Picture 1.excalidraw"
-            }
-          },
-          {
-            "id": "fcb2b4330c03fb37",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Integration Y Example 1 Picture 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Integration Y Example 1 Picture 1"
-            }
-          },
-          {
-            "id": "29ff0c635f2a31f6",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Area between curve Example 1 Picture 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Area between curve Example 1 Picture 1"
-            }
-          },
-          {
-            "id": "1be9c995340317e4",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Area between Curves Example 0 Picture 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Area between Curves Example 0 Picture 1"
-            }
-          },
-          {
-            "id": "e9567c7e0b32bcfb",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Symmetric Functions Example 0 Picture 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Symmetric Functions Example 0 Picture 1"
-            }
-          },
-          {
-            "id": "c81758f89ce1418d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Unit 5/Fundamental Theorem of Calculus (FTC).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fundamental Theorem of Calculus (FTC)"
-            }
-          },
-          {
-            "id": "625c12227e84681a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Unit 3/Related Rates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Related Rates"
+              "title": "Solids of revolution example 0 picture 3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -307,15 +218,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "578c40737600126d",
+  "active": "fb355505e46ae653",
   "lastOpenFiles": [
+    "Excalidraw/Solids of revolution example 0 picture 3.md",
     "Math/Unit 6/Solids of Revolution.md",
-    "Excalidraw/Drawing 2025-04-18 11.49.06.excalidraw.md",
+    "Excalidraw/Solids of revolution example 0 picture 2.md",
+    "Excalidraw/Solids of revolution example 0 picture 1.md",
+    "Excalidraw/Disks and Washers Example 2 Picture 1.excalidraw.md",
     "Adam Assignments/04-2025/18Fr.md",
     "Physics/Light Slogo.md",
     "Adam Assignments/04-2025/16We.md",
     "Math/Unit 6/Disks and Washers.md",
-    "Excalidraw/Disks and Washers Example 2 Picture 1.excalidraw.md",
     "Excalidraw/Disks and Washers Example 1 Picture 1.excalidraw.md",
     "Excalidraw/Disks and Washers Example 0 Picture 1.excalidraw.md",
     "Math/Unit 6",
@@ -335,8 +248,6 @@
     "Math/Unit 5/Definite Integral Substitution.md",
     "Math/Unit 5/Fundamental Theorem of Calculus (FTC).md",
     "Math/Unit 5/Integration.md",
-    "Math/Unit 5/Mean Value Theorem.md",
-    "Math/Unit 5/Sigma-Summation Notation.md",
     "Adam Assignments/03-2025",
     "Math/Unit 5",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",
