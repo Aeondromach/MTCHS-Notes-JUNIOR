@@ -22,18 +22,31 @@
             }
           },
           {
-            "id": "574e77537d88b736",
+            "id": "539ecdfd8320cb86",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Solids of Revolution Example 2 Picture 1.md"
+                "file": "Excalidraw/Solids of Revolution Example 3 Picture 1.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Solids of Revolution Example 2 Picture 1"
+              "title": "Solids of Revolution Example 3 Picture 1"
+            }
+          },
+          {
+            "id": "b8c57f6572d1676c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Solids of Revolution Example 0 Picture 4.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Solids of Revolution Example 0 Picture 4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,10 +231,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb355505e46ae653",
+  "active": "539ecdfd8320cb86",
   "lastOpenFiles": [
-    "Excalidraw/Solids of Revolution Example 2 Picture 1.md",
     "Math/Unit 6/Solids of Revolution.md",
+    "Excalidraw/Solids of Revolution Example 3 Picture 1.md",
+    "Excalidraw/Solids of Revolution Example 0 Picture 4.md",
+    "Excalidraw/Solids of Revolution Example 2 Picture 1.md",
     "Adam Assignments/04-2025/18Fr.md",
     "Physics/Light Slogo.md",
     "Excalidraw/Solids of Revolution Example 1 Picture 1.md",
@@ -246,7 +261,6 @@
     "Excalidraw/Area between Curves Example 0 Picture 1.md",
     "Adam Assignments/03-2025/31Mo.md",
     "Math/Unit 5/Symmetric Functions.md",
-    "Excalidraw/Symmetric Functions Example 0 Picture 1.md",
     "Adam Assignments/03-2025",
     "Math/Unit 5",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",
