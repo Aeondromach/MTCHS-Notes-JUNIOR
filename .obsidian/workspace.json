@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "59e3abf356252130",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-18 11.58.32.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-18 11.58.32.excalidraw"
+            }
+          },
+          {
             "id": "95169331474a06d9",
             "type": "leaf",
             "state": {
@@ -33,7 +45,8 @@
               "title": "Solids of revolution example 0 picture 3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,10 +231,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb355505e46ae653",
+  "active": "59e3abf356252130",
   "lastOpenFiles": [
-    "Excalidraw/Solids of revolution example 0 picture 3.md",
     "Math/Unit 6/Solids of Revolution.md",
+    "Excalidraw/Drawing 2025-04-18 11.58.32.excalidraw.md",
+    "Excalidraw/Solids of revolution example 0 picture 3.md",
     "Excalidraw/Solids of revolution example 0 picture 2.md",
     "Excalidraw/Solids of revolution example 0 picture 1.md",
     "Excalidraw/Disks and Washers Example 2 Picture 1.excalidraw.md",
@@ -247,7 +261,6 @@
     "Excalidraw/Symmetric Functions Example 0 Picture 1.md",
     "Math/Unit 5/Definite Integral Substitution.md",
     "Math/Unit 5/Fundamental Theorem of Calculus (FTC).md",
-    "Math/Unit 5/Integration.md",
     "Adam Assignments/03-2025",
     "Math/Unit 5",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",
