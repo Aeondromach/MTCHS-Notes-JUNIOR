@@ -22,27 +22,15 @@
             }
           },
           {
-            "id": "59e3abf356252130",
+            "id": "be35b797ae38c7cb",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-04-18 11.58.32.excalidraw.md"
+                "file": "Excalidraw/Drawing 2025-04-18 12.05.28.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-18 11.58.32.excalidraw"
-            }
-          },
-          {
-            "id": "95169331474a06d9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Solids of revolution example 0 picture 3.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Solids of revolution example 0 picture 3"
+              "title": "Drawing 2025-04-18 12.05.28.excalidraw"
             }
           }
         ],
@@ -231,10 +219,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "59e3abf356252130",
+  "active": "be35b797ae38c7cb",
   "lastOpenFiles": [
     "Math/Unit 6/Solids of Revolution.md",
-    "Excalidraw/Drawing 2025-04-18 11.58.32.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-18 12.05.28.excalidraw.md",
+    "Excalidraw/Solids of Revolution Example 1 Picture 1.md",
     "Excalidraw/Solids of revolution example 0 picture 3.md",
     "Excalidraw/Solids of revolution example 0 picture 2.md",
     "Excalidraw/Solids of revolution example 0 picture 1.md",
@@ -260,7 +249,6 @@
     "Math/Unit 5/Symmetric Functions.md",
     "Excalidraw/Symmetric Functions Example 0 Picture 1.md",
     "Math/Unit 5/Definite Integral Substitution.md",
-    "Math/Unit 5/Fundamental Theorem of Calculus (FTC).md",
     "Adam Assignments/03-2025",
     "Math/Unit 5",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",
