@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "7043564d2f2f286a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-21 11.54.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-21 11.54.34.excalidraw"
+            }
+          },
+          {
             "id": "419cbae652ecf079",
             "type": "leaf",
             "state": {
@@ -57,7 +69,8 @@
               "title": "Solids of Revolution Example 0 Picture 4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,10 +255,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb355505e46ae653",
+  "active": "7043564d2f2f286a",
   "lastOpenFiles": [
-    "Excalidraw/Volume by Washers Example 0 Picture 1.md",
     "Math/Unit 6/Volume by Washers.md",
+    "Excalidraw/Drawing 2025-04-21 11.54.34.excalidraw.md",
+    "Excalidraw/Volume by Washers Example 0 Picture 1.md",
     "Adam Assignments/04-2025/21Mo.md",
     "Math/Unit 6/Solids of Revolution.md",
     "Adam Assignments/04-2025/18Fr.md",
@@ -271,7 +285,6 @@
     "Excalidraw/Integration Y Example 1 Picture 1.md",
     "Adam Assignments/04-2025/02We.md",
     "Adam Assignments/04-2025",
-    "Excalidraw/Area between curve Example 1 Picture 1.md",
     "Adam Assignments/03-2025",
     "Math/Unit 5",
     "Excalidraw/Linearization main Picture 1.excalidraw.png",
