@@ -7,4 +7,4 @@ Find the volume of the solid formed by rotating the region enclosed by the x-axi
 > ![[Shells Example 1 Picture 1]]
 > $$V=\int^b_a 2\pi(\text{shell radius})(\text{shell height})$$
 > $$V=\int^3_0 3\pi(1+x)(3x-x^2)dx$$
-> $$V=2\pi\int^3_0 3x-x^2+3x^2-x^2 dx$$$$V=2\pi[\frac{3x^2}{2}-\frac{$0$
+> $$V=2\pi\int^3_0 3x-x^2+3x^2-x^2 dx$$
