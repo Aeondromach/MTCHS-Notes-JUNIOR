@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "1e4b7df09ce90581",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-04-22 12.02.52.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-22 12.02.52.excalidraw"
+            }
+          },
+          {
             "id": "9c15a20e2471a346",
             "type": "leaf",
             "state": {
@@ -81,7 +93,8 @@
               "title": "Solids of Revolution Example 0 Picture 4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,10 +279,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fb355505e46ae653",
+  "active": "1e4b7df09ce90581",
   "lastOpenFiles": [
-    "Excalidraw/Shells Example 0 Picture 1.md",
     "Math/Unit 6/Shells.md",
+    "Excalidraw/Drawing 2025-04-22 12.02.52.excalidraw.md",
+    "Excalidraw/Shells Example 0 Picture 1.md",
     "Math/Unit 6/Solids of Revolution.md",
     "Math/Unit 6/Volume by Washers.md",
     "Math/Unit 6/Untitled",
@@ -295,7 +309,6 @@
     "Math/Unit 5/Area Between Curves.md",
     "Math/Unit 5/Substitution Rule (u-sub).md",
     "Adam Assignments/04-2025/04Fr.md",
-    "Math/Unit 5/Integration with respect to Y.md",
     "Adam Assignments/04-2025",
     "Adam Assignments/03-2025",
     "Math/Unit 5",
